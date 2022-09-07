@@ -1,0 +1,12 @@
+1. Command prompt terminal 
+
+2. git config
+
+3. GNU g++
+
+4. GNU make
+
+5. Notepad
+
+Date: 9/5/22
+Time: 8:29
