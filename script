@@ -1,1495 +1,0 @@
-Script started on 2022-09-05 20:32:16-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
--
-$(date +%F
-).log
---
-timing=time
--
-$(date +%F).txt]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ -
--: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ $(date +%F
-> ).log
-2022-09-05.log: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ --
---: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ timing=time
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ -
--: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ $(date +%F).txt[K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ $(date +%F).txt[K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ $(date +%F).txt mkf[Kdir ex1
-2022-09-05.txt: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ mi[Kkdir ex1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ mc[Kv -T ex1 Exercise_1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ ls -a
-[0m[01;32m'#include'[0m
- [34;42m.[0m
- [01;34m..[0m
- [34;42m.android[0m
- [34;42m.dotnet[0m
- [01;32m.drjava[0m
- [34;42m.eclipse[0m
- [01;32m.emulator_console_auth_token[0m
- [01;32m.gitconfig[0m
- [34;42m.gnupg[0m
- [34;42m.gradle[0m
- [34;42m.ms-ad[0m
- [34;42m.p2[0m
- [34;42m.templateengine[0m
- [34;42m.tooling[0m
- [34;42m.vscode[0m
- [34;42m3142[0m
-[34;42m'3D Objects'[0m
- [34;42mAndroidStudioProjects[0m
- [34;42mAppData[0m
-[01;36m'Application Data'[0m
- [34;42mContacts[0m
- [01;36mCookies[0m
- [34;42mDesktop[0m
- [34;42mDocuments[0m
- [34;42mDownloads[0m
- [34;42mExercise_1[0m
- [34;42mFavorites[0m
- [34;42mIntelGraphicsProfiles[0m
- [34;42mLinks[0m
-[01;36m'Local Settings'[0m
- [34;42mMicrosoftEdgeBackups[0m
- [34;42mMusic[0m
-[01;36m'My Documents'[0m
- [34;42mMyWebApp[0m
- [01;32mNTUSER.DAT[0m
- [01;32mNTUSER.DAT{a8b157c3-e655-11ea-8191-87a359433a35}.TxR.0.regtrans-ms[0m
- [01;32mNTUSER.DAT{a8b157c3-e655-11ea-8191-87a359433a35}.TxR.1.regtrans-ms[0m
- [01;32mNTUSER.DAT{a8b157c3-e655-11ea-8191-87a359433a35}.TxR.2.regtrans-ms[0m
- [01;32mNTUSER.DAT{a8b157c3-e655-11ea-8191-87a359433a35}.TxR.blf[0m
- [01;32mNTUSER.DAT{a8b157c4-e655-11ea-8191-87a359433a35}.TM.blf[0m
- [01;32mNTUSER.DAT{a8b157c4-e655-11ea-8191-87a359433a35}.TMContainer00000000000000000001.regtrans-ms[0m
- [01;32mNTUSER.DAT{a8b157c4-e655-11ea-8191-87a359433a35}.TMContainer00000000000000000002.regtrans-ms[0m
- [01;36mNetHood[0m
- [34;42mOneDrive[0m
- [34;42mPictures[0m
- [01;36mPrintHood[0m
- [34;42mPycharmProjects[0m
- [01;36mRecent[0m
-[34;42m'Saved Games'[0m
- [34;42mSearches[0m
- [01;36mSendTo[0m
-[01;36m'Start Menu'[0m
- [01;36mTemplates[0m
- [34;42mVideos[0m
- [01;32ma.out[0m
- [34;42meclipse[0m
- [34;42meclipse-workspace[0m
- [01;32mntuser.dat.LOG1[0m
- [01;32mntuser.dat.LOG2[0m
- [01;32mntuser.ini[0m
- [01;32mscript[0m
- [01;32mst[0m
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ [K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ cd exercise_1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ ls -a
-[0m[34;42m.[0m  [34;42m..[0m  [01;32mmain.cpp[0m  [01;32mnote.txt[0m
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ cp main.cpp 3142
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ mv m[Kmain.cpp 3142
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ cd 3142
-bash: cd: 3142: Not a directory
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ pwd
-/mnt/c/Users/19293/exercise_1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ cd 19293
-bash: cd: 19293: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ mc m[K[K[Kv main.cpp exercise_1
-mv: cannot stat 'main.cpp': No such file or directory
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ cd_[K~19293
-cd~19293: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ cd ~
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd 3142
-bash: cd: 3142: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ 19293
-19293: command not found
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd 19293
-bash: cd: 19293: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ pwd
-/home/asm2000
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ c ~
-c: command not found
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd ~
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ pwd
-/home/asm2000
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd ^[[C[K[K[K-
-/home/asm2000
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd-
-
-Command 'cd-' not found, did you mean:
-
-  command 'cdw' from deb cdw (0.8.1-1build4)
-  command 'cd5' from deb cd5 (0.1-4)
-  command 'cdb' from deb tinycdb (0.78build1)
-  command 'cdo' from deb cdo (1.9.9~rc1-1)
-  command 'cdp' from deb irpas (0.10-7)
-  command 'cde' from deb cde (0.1+git9-g551e54d-1.1build1)
-  command 'cdi' from deb cdo (1.9.9~rc1-1)
-
-Try: sudo apt install <deb name>
-
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd -
-/home/asm2000
-]0;asm2000@DESKTOP-842SQC5: ~[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m~[00m$ cd ?[K/
-]0;asm2000@DESKTOP-842SQC5: /[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/[00m$ pwd
-/
-]0;asm2000@DESKTOP-842SQC5: /[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/[00m$ cd 19293
-bash: cd: 19293: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: /[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/[00m$ pwd
-/
-]0;asm2000@DESKTOP-842SQC5: /[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/[00m$ cd desktop
-bash: cd: desktop: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: /[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/[00m$ cd mnt
-]0;asm2000@DESKTOP-842SQC5: /mnt[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt[00m$ cd c/Users/19293
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ cd 3142
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/3142[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/3142[00m$ mc[Kv main.cpp exercise_1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/3142[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/3142[00m$ c-
-c-: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/3142[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/3142[00m$ cd c-
-bash: cd: c-: No such file or directory
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/3142[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/3142[00m$ cd-
-
-Command 'cd-' not found, did you mean:
-
-  command 'cdb' from deb tinycdb (0.78build1)
-  command 'cd5' from deb cd5 (0.1-4)
-  command 'cdi' from deb cdo (1.9.9~rc1-1)
-  command 'cdw' from deb cdw (0.8.1-1build4)
-  command 'cdo' from deb cdo (1.9.9~rc1-1)
-  command 'cdp' from deb irpas (0.10-7)
-  command 'cde' from deb cde (0.1+git9-g551e54d-1.1build1)
-
-Try: sudo apt install <deb name>
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/3142[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/3142[00m$ cd -
-/mnt/c/Users/19293
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293[00m$ cd exercise1[K_1
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ mv -T 3142 main
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ tocuh [K[K[K[Kuch main.cpp
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ g++ main.cpp
-/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
-(.text+0x24): undefined reference to `main'
-collect2: error: ld returned 1 exit status
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ g++ main.cpp
-/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
-(.text+0x24): undefined reference to `main'
-collect2: error: ld returned 1 exit status
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ g++ main.cpp
-[01m[Kmain.cpp:7:5:[m[K [01;31m[Kerror: [m[Kredefinition of ‘[01m[Kint main()[m[K’
-    7 | int [01;31m[Kmain[m[K() {
-      |     [01;31m[K^~~~[m[K
-[01m[Kmain.cpp:2:5:[m[K [01;36m[Knote: [m[K‘[01m[Kint main()[m[K’ previously defined here
-    2 | int [01;36m[Kmain[m[K(){
-      |     [01;36m[K^~~~[m[K
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ g__[K[K++ main.cpp
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ out.txt
-out.txt: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ ./main.out[K[K[K[K[K[K[K[Ka.out
-Hello World
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git log
-fatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
-
-These are common Git commands used in various situations:
-
-start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory
-   init              Create an empty Git repository or reinitialize an existing one
-
-work on the current change (see also: git help everyday)
-   add               Add file contents to the index
-   mv                Move or rename a file, a directory, or a symlink
-   restore           Restore working tree files
-   rm                Remove files from the working tree and from the index
-   sparse-checkout   Initialize and modify the sparse-checkout
-
-examine the history and state (see also: git help revisions)
-   bisect            Use binary search to find the commit that introduced a bug
-   diff              Show changes between commits, commit and working tree, etc
-   grep              Print lines matching a pattern
-   log               Show commit logs
-   show              Show various types of objects
-   status            Show the working tree status
-
-grow, mark and tweak your common history
-   branch            List, create, or delete branches
-   commit            Record changes to the repository
-   merge             Join two or more development histories together
-   rebase            Reapply commits on top of another base tip
-   reset             Reset current HEAD to the specified state
-   switch            Switch branches
-   tag               Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch             Download objects and refs from another repository
-   pull              Fetch from and integrate with another repository or a local branch
-   push              Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git log
-fatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add
-fatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git log
-fatal: not a git repository (or any parent up to mount point /mnt)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ ssh
-usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
-           [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]
-           [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
-           [-i identity_file] [-J [user@]host[:port]] [-L address]
-           [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port]
-           [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
-           [-w local_tun[:remote_tun]] destination [command]
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git init
-Initialized empty Git repository in /mnt/c/Users/19293/exercise_1/.git/
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ h[Kgit remote add origin
-usage: git remote add [<options>] <name> <url>
-
-    -f, --fetch           fetch the remote branches
-    --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
-    -t, --track <branch>  branch(es) to track
-    -m, --master <branch>
-                          master branch
-    --mirror[=(push|fetch)]
-                          set up remote as a mirror to push to or fetch from
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote add origin ^M[K^M[K^M
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote -v
-origin	 (fetch)
-origin	 (push)
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .[K
-Nothing specified, nothing added.
-Maybe you wanted to say 'git add .'?
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m ""m"y" "f"i"r"s"t" "c"o"m"m"i"t"[C
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <asm2000@DESKTOP-842SQC5.localdomain>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git rm[Kemote add origin ^M[K
-usage: git remote add [<options>] <name> <url>
-
-    -f, --fetch           fetch the remote branches
-    --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
-    -t, --track <branch>  branch(es) to track
-    -m, --master <branch>
-                          master branch
-    --mirror[=(push|fetch)]
-                          set up remote as a mirror to push to or fetch from
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote add origin commit -m "my first commit"
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <asm2000@DESKTOP-842SQC5.localdomain>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git reo[Kmote origin[C origina origind origind origin[C origin[C origin[1Porigin[C[1Porigin[C[C[C[C[C[C[C v[K^V[K^[[2;2~[K[K[K[K[K[K[K 2~[K[K2~[K[Kv[K^M[K^M[Kcommit -m "my first commit"[9Premote add origin commit -m "my first commit"[9Premote add origin commit -m "my first commit"[9Premote add origin commit -m "my first commit"[9Premote add origin ^V[K^V[K^V[K^[[2;2~2~2~[K[K[K[K[K[K[K[K[K[K2~[K[KV[Kv[K^V[K^M[K^M[K^M[K^M[K^M[K^M
-fatal: remote origin already exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote add origin ^M[Kgit remote add origin ^Mcommit -m "my first commit"[7Premote add origin ^M[Kremote -v
-remote: command not found
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote -v
-origin	 (fetch)
-origin	 (push)
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ go[Kit add.
-git: 'add.' is not a git command. See 'git --help'.
-
-The most similar command is
-	add
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m ::[K[K""f"i"r"s"t" "c"o"m"m"i"t"[C
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <asm2000@DESKTOP-842SQC5.localdomain>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote add orihin[K[K[Kgin ""h"t"t"p"s":"/"g"i"t"h"u"b"."c"o"m"/"S"h"a"r"i"a"r"3"6"5"/"C"i"s"c"-"3"1"4"2"."g"u" [A]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci"t"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci" [A]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct"[C
-fatal: remote origin already exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote -v
-origin	 (fetch)
-origin	 (push)
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m
-error: switch `m' requires a value
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m ""f"i"r"s"t"[C
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <asm2000@DESKTOP-842SQC5.localdomain>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config ==[K[K--shafinchowdhury2002@gmailcom[C.com[C[C[C
-error: unknown option `shafinchowdhury2002@gmail.com'
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --shafinchowdhury2002@gmail.com[K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --shafinchowdhury2002@gmail.com[Kgit config --shafinchowdhury2002@gmail.com[21Pmmit -m "first"[K[4Padd .remote -vadd origin "https:/github.com/Shariar365/Cisc-3142.git"[A]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [C[C[C[C[37Pcommit -m "first commit"
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[K[1P.remote -v[4P[C[C[C[C[C[C[C[C[C[4@git [C[C[C[C[C[C[C[C[C[5Padd. .commit -m "first commit"remote add origin "https:/github.com/Shariar365/Cisc-3142.git"[A]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [C[C[C[C[37Pcommit -m "first commit"
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin "https:/github.com/Shariar365/Cisc-3142.git"[A]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [C[C[C[C[C[C[C[C[C[C[C-v[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Padd .commit -m "first"nfig --shafinchowdhury2002@gmail.com[Kgit config --shafinchowdhury2002@gmail.com[Cg-shafinchowdhury2002@gmail.com[1P-shafinchowdhury2002@gmail.com[Cgshafinchowdhury2002@gmail.comlshafinchowdhury2002@gmail.comoshafinchowdhury2002@gmail.combshafinchowdhury2002@gmail.comashafinchowdhury2002@gmail.comlshafinchowdhury2002@gmail.com shafinchowdhury2002@gmail.com
-error: invalid key: shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global shafinchowdhury2002@gmail.com[C[C[C[C shafinchowdhury2002@gmail.comu shafinchowdhury2002@gmail.coms shafinchowdhury2002@gmail.come shafinchowdhury2002@gmail.comr shafinchowdhury2002@gmail.com. shafinchowdhury2002@gmail.come shafinchowdhury2002@gmail.comm shafinchowdhury2002@gmail.comi shafinchowdhury2002@gmail.coma shafinchowdhury2002@gmail.coml shafinchowdhury2002@gmail.com[1P shafinchowdhury2002@gmail.com[1P shafinchowdhury2002@gmail.com[1P shafinchowdhury2002@gmail.coma shafinchowdhury2002@gmail.comi shafinchowdhury2002@gmail.coml shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.com[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[K[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[1Pm[K[1Pm[1Pm.mumsmemrmnmam[Cm[Ce[1Pe[C Shariar265
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit m[K-m ""f"i"r"s"t"[C
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <shafinchowdhury2002@gmail.com>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"nfig --global user.username Shariar265email shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.com[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config --global user.email shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar265[1P2654265[C[1P265r2653265[C[1P65[C[C
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <shafinchowdhury2002@gmail.com>) not allowed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"nfig --global user.username Shariar365email shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar365[K[K[K[K[K[K[K[K[K[KAsm Shariar Chowdhury
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.username Asm Shariar Chowdhury
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.username Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhury[C[C[1P[1P[1P[1P
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.name Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhury
-usage: git config [<options>]
-
-Config file location
-    --global              use global config file
-    --system              use system config file
-    --local               use repository config file
-    --worktree            use per-worktree config file
-    -f, --file <file>     use given config file
-    --blob <blob-id>      read config from given blob object
-
-Action
-    --get                 get value: name [value-regex]
-    --get-all             get all values: key [value-regex]
-    --get-regexp          get values for regexp: name-regex [value-regex]
-    --get-urlmatch        get value specific for the URL: section[.var] URL
-    --replace-all         replace all matching variables: name value [value_regex]
-    --add                 add a new variable: name value
-    --unset               remove a variable: name [value-regex]
-    --unset-all           remove all matches: name [value-regex]
-    --rename-section      rename section: old-name new-name
-    --remove-section      remove a section: name
-    -l, --list            list all
-    -e, --edit            open an editor
-    --get-color           find the color configured: slot [default]
-    --get-colorbool       find the color setting: slot [stdout-is-tty]
-
-Type
-    -t, --type <>         value is given this type
-    --bool                value is "true" or "false"
-    --int                 value is decimal number
-    --bool-or-int         value is --bool or --int
-    --path                value is a path (file or directory name)
-    --expiry-date         value is an expiry date
-
-Other
-    -z, --null            terminate values with NUL byte
-    --name-only           show variable names only
-    --includes            respect include directives on lookup
-    --show-origin         show origin of config (file, standard input, blob, command line)
-    --default <value>     with --get, use default value when missing entry
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.name Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global user.email shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhury[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KShariar365
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m ""f"i"r"s"t"[C
-[master (root-commit) 410e45c] first
- 5 files changed, 27 insertions(+)
- create mode 100644 a.out
- create mode 100644 logs.txt
- create mode 100644 main
- create mode 100644 main.cpp
- create mode 100644 note.txt
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git psu[K[Kush orgin[K[K[Kigin a[Kmaster
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push
-fatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin master
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git ush[K[K[Kpush origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ 
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push [K[K[K[K[K[K[K[K[Kgit help pull
-[?1049h[22;0;0t[?1h=GIT-PULL(1)                                           Git Manual                                          GIT-PULL(1)[m
-[m
-[1mNAME[0m[m
-       git-pull - Fetch from and integrate with another repository or a local branch[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpull[24m [<options>] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Incorporates changes from a remote repository into the current branch. In its default mode, [1mgit[0m [1mpull[0m is[m
-       shorthand for [1mgit[0m [1mfetch[0m followed by [1mgit[0m [1mmerge[0m [1mFETCH_HEAD[0m.[m
-[m
-       More precisely, [4mgit[24m [4mpull[24m runs [4mgit[24m [4mfetch[24m with the given parameters and calls [4mgit[24m [4mmerge[24m to merge the retrieved[m
-       branch heads into the current branch. With [1m--rebase[0m, it runs [4mgit[24m [4mrebase[24m instead of [4mgit[24m [4mmerge[24m.[m
-[m
-       <repository> should be the name of a remote repository as passed to [1mgit-fetch[0m(1). <refspec> can name an[m
-       arbitrary remote ref (for example, the name of a tag) or even a collection of refs with corresponding[m
-       remote-tracking branches (e.g., refs/heads/*:refs/remotes/origin/*), but usually it is the name of a branch in[m
-       the remote repository.[m
-[m
-       Default values for <repository> and <branch> are read from the "remote" and "merge" configuration for the[m
-       current branch as set by [1mgit-branch[0m(1) [1m--track[0m.[m
-[m
-       Assume the following history exists and the current branch is "[1mmaster[0m":[m
-[m
-                     A---B---C master on origin[m
-                    /[m
-               D---E---F---G master[m
-                   ^[m
-[7m Manual page git-pull(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git help pull
-[?1049h[22;0;0t[?1h=GIT-PULL(1)                                           Git Manual                                          GIT-PULL(1)[m
-[m
-[1mNAME[0m[m
-       git-pull - Fetch from and integrate with another repository or a local branch[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpull[24m [<options>] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Incorporates changes from a remote repository into the current branch. In its default mode, [1mgit[0m [1mpull[0m is[m
-       shorthand for [1mgit[0m [1mfetch[0m followed by [1mgit[0m [1mmerge[0m [1mFETCH_HEAD[0m.[m
-[m
-       More precisely, [4mgit[24m [4mpull[24m runs [4mgit[24m [4mfetch[24m with the given parameters and calls [4mgit[24m [4mmerge[24m to merge the retrieved[m
-       branch heads into the current branch. With [1m--rebase[0m, it runs [4mgit[24m [4mrebase[24m instead of [4mgit[24m [4mmerge[24m.[m
-[m
-       <repository> should be the name of a remote repository as passed to [1mgit-fetch[0m(1). <refspec> can name an[m
-       arbitrary remote ref (for example, the name of a tag) or even a collection of refs with corresponding[m
-       remote-tracking branches (e.g., refs/heads/*:refs/remotes/origin/*), but usually it is the name of a branch in[m
-       the remote repository.[m
-[m
-       Default values for <repository> and <branch> are read from the "remote" and "merge" configuration for the[m
-       current branch as set by [1mgit-branch[0m(1) [1m--track[0m.[m
-[m
-       Assume the following history exists and the current branch is "[1mmaster[0m":[m
-[m
-                     A---B---C master on origin[m
-                    /[m
-               D---E---F---G master[m
-                   ^[m
-[7m Manual page git-pull(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push master
-fatal: 'master' does not appear to be a git repository
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push master
-fatal: 'master' does not appear to be a git repository
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push cisc 3142
-error: src refspec 3142 does not match any
-[31merror: failed to push some refs to 'cisc'
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push cisc[K[K[K[KCisc-3142
-fatal: 'Cisc-3142' does not appear to be a git repository
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push Cisc-3142cisc 3142[3Pmasterorigin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[K[K[K[K[K[Kci[K[KCisc-3142
-error: src refspec Cisc-3142 does not match any
-[31merror: failed to push some refs to ''
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin Cisc-3142[3PmasterMaster[1PMaster
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ gi [Kt help push
-[?1049h[22;0;0t[?1h=GIT-PUSH(1)                                           Git Manual                                          GIT-PUSH(1)[m
-[m
-[1mNAME[0m[m
-       git-push - Update remote refs along with associated objects[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpush[24m [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=<git-receive-pac[m k>][m
-                  [--repo=<repository>] [-f | --force] [-d | --delete] [--prune] [-v | --verbose][m
-                  [-u | --set-upstream] [-o <string> | --push-option=<string>][m
-                  [--[no-]signed|--signed=(true|false|if-asked)][m
-                  [--force-with-lease[=<refname>[:<expect>]]][m
-                  [--no-verify] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Updates remote refs using local refs, while sending objects necessary to complete the given refs.[m
-[m
-       You can make interesting things happen to a repository every time you push into it, by setting up [4mhooks[24m there.[m
-       See documentation for [1mgit-receive-pack[0m(1).[m
-[m
-       When the command line does not specify where to push with the [1m<repository>[0m argument, [1mbranch.*.remote[0m[m
-       configuration for the current branch is consulted to determine where to push. If the configuration is missing,[m
-       it defaults to [4morigin[24m.[m
-[m
-       When the command line does not specify what to push with [1m<refspec>...[0m arguments or [1m--all[0m, [1m--mirror[0m, [1m--tags[0m[m
-       options, the command finds the default [1m<refspec>[0m by consulting [1mremote.*.push[0m configuration, and if it is not[m
-       found, honors [1mpush.default[0m configuration to decide what to push (See [1mgit-config[0m(1) for the meaning of[m
-       [1mpush.default[0m).[m
-[m
-[7m Manual page git-push(1) line 1 (press h for help or q to quit)[27m[K...skipping...
-GIT-PUSH(1)                                           Git Manual                                          GIT-PUSH(1)[m
-[m
-[1mNAME[0m[m
-       git-push - Update remote refs along with associated objects[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpush[24m [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=<git-receive-pack>][m
-                  [--repo=<repository>] [-f | --force] [-d | --delete] [--prune] [-v | --verbose][m
-                  [-u | --set-upstream] [-o <string> | --push-option=<string>][m
-                  [--[no-]signed|--signed=(true|false|if-asked)][m
-                  [--force-with-lease[=<refname>[:<expect>]]][m
-                  [--no-verify] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Updates remote refs using local refs, while sending objects necessary to complete the given refs.[m
-[m
-       You can make interesting things happen to a repository every time you push into it, by setting up [4mhooks[24m there.[m
-       See documentation for [1mgit-receive-pack[0m(1).[m
-[m
-       When the command line does not specify where to push with the [1m<repository>[0m argument, [1mbranch.*.remote[0m[m
-       configuration for the current branch is consulted to determine where to push. If the configuration is missing,[m
-       it defaults to [4morigin[24m.[m
-[m
-       When the command line does not specify what to push with [1m<refspec>...[0m arguments or [1m--all[0m, [1m--mirror[0m, [1m--tags[0m[m
-       options, the command finds the default [1m<refspec>[0m by consulting [1mremote.*.push[0m configuration, and if it is not[m
-       found, honors [1mpush.default[0m configuration to decide what to push (See [1mgit-config[0m(1) for the meaning of[m
-       [1mpush.default[0m).[m
-[m
-       When neither the command-line nor the configuration specify what to push, the default behavior is used, which[m
-       corresponds to the [1msimple[0m value for [1mpush.default[0m: the current branch is pushed to the corresponding upstream[m
-       branch, but as a safety measure, the push is aborted if the upstream branch does not have the same name as the[m
-       local one.[m
-[m
-[1mOPTIONS[0m[m
-       <repository>[m
-           The "remote" repository that is destination of a push operation. This parameter can be either a URL (see[m
-           the section GIT URLS below) or the name of a remote (see the section REMOTES below).[m
-[m
-       <refspec>...[m
-           Specify what destination ref to update with what source object. The format of a <refspec> parameter is an[m
-           optional plus [1m+[0m, followed by the source object <src>, followed by a colon [1m:[0m, followed by the destination[m
-           ref <dst>.[m
-[m
-[7m Manual page git-push(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The <src> is often the name of the branch you would want to push, but it can be any arbitrary "SHA-1[m
-[7m Manual page git-push(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           expression", such as [1mmaster~4[0m or [1mHEAD[0m (see [1mgitrevisions[0m(7)).[m
-[7m Manual page git-push(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The <dst> tells which ref on the remote side is updated with this push. Arbitrary expressions cannot be[m
-[7m Manual page git-push(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           used here, an actual ref must be named. If [1mgit[0m [1mpush[0m [1m[<repository>][0m without any [1m<refspec>[0m argument is set[m
-[7m Manual page git-push(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           to update some ref at the destination with [1m<src>[0m with [1mremote.<repository>.push[0m configuration variable,[m
-[7m Manual page git-push(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1m:<dst>[0m part can be omitted—such a push will update a ref that [1m<src>[0m normally updates without any [1m<refspec>[0m[m
-[7m Manual page git-push(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           on the command line. Otherwise, missing [1m:<dst>[0m means to update the same ref as the [1m<src>[0m.[m
-[7m Manual page git-push(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           If <dst> doesn’t start with [1mrefs/[0m (e.g.  [1mrefs/heads/master[0m) we will try to infer where in [1mrefs/*[0m on the[m
-[7m Manual page git-push(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           destination <repository> it belongs based on the type of <src> being pushed and whether <dst> is[m
-[7m Manual page git-push(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           ambiguous.[m
-[7m Manual page git-push(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           •   If <dst> unambiguously refers to a ref on the <repository> remote, then push to that ref.[m
-[7m Manual page git-push(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           •   If <src> resolves to a ref starting with refs/heads/ or refs/tags/, then prepend that to <dst>.[m
-[7m Manual page git-push(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           •   Other ambiguity resolutions might be added in the future, but for now any other cases will error out[m
-[7m Manual page git-push(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               with an error indicating what we tried, and depending on the [1madvice.pushUnqualifiedRefname[0m[m
-[7m Manual page git-push(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               configuration (see [1mgit-config[0m(1)) suggest what refs/ namespace you may have wanted to push to.[m
-[7m Manual page git-push(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The object referenced by <src> is used to update the <dst> reference on the remote side. Whether this is[m
-[7m Manual page git-push(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           allowed depends on where in [1mrefs/*[0m the <dst> reference lives as described in detail below, in those[m
-[7m Manual page git-push(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           sections "update" means any modifications except deletes, which as noted after the next few sections are[m
-[7m Manual page git-push(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           treated differently.[m
-[7m Manual page git-push(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The [1mrefs/heads/*[0m namespace will only accept commit objects, and updates only if they can be[m
-[7m Manual page git-push(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           fast-forwarded.[m
-[7m Manual page git-push(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The [1mrefs/tags/*[0m namespace will accept any kind of object (as commits, trees and blobs can be tagged), and[m
-[7m Manual page git-push(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           any updates to them will be rejected.[m
-[7m Manual page git-push(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           It’s possible to push any type of object to any namespace outside of [1mrefs/{tags,heads}/*[0m. In the case of[m
-[7m Manual page git-push(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           tags and commits, these will be treated as if they were the commits inside [1mrefs/heads/*[0m for the purposes[m
-[7m Manual page git-push(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           of whether the update is allowed.[m
-[7m Manual page git-push(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           I.e. a fast-forward of commits and tags outside [1mrefs/{tags,heads}/*[0m is allowed, even in cases where what’s[m
-[7m Manual page git-push(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           being fast-forwarded is not a commit, but a tag object which happens to point to a new commit which is a[m
-[7m Manual page git-push(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           fast-forward of the commit the last tag (or commit) it’s replacing. Replacing a tag with an entirely[m
-[7m Manual page git-push(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           different tag is also allowed, if it points to the same commit, as well as pushing a peeled tag, i.e.[m
-[7m Manual page git-push(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           pushing the commit that existing tag object points to, or a new tag object which an existing commit points[m
-[7m Manual page git-push(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           to.[m
-[7m Manual page git-push(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Tree and blob objects outside of [1mrefs/{tags,heads}/*[0m will be treated the same way as if they were inside[m
-[7m Manual page git-push(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mrefs/tags/*[0m, any update of them will be rejected.[m
-[7m Manual page git-push(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           All of the rules described above about what’s not allowed as an update can be overridden by adding an the[m
-[7m Manual page git-push(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           optional leading [1m+[0m to a refspec (or using [1m--force[0m command line option). The only exception to this is that[m
-[7m Manual page git-push(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           no amount of forcing will make the [1mrefs/heads/*[0m namespace accept a non-commit object. Hooks and[m
-[7m Manual page git-push(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           configuration can also override or amend these rules, see e.g.  [1mreceive.denyNonFastForwards[0m in [1mgit-[0m[m
-[7m Manual page git-push(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mconfig[0m(1) and [1mpre-receive[0m and [1mupdate[0m in [1mgithooks[0m(5).[m
-[7m Manual page git-push(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Pushing an empty <src> allows you to delete the <dst> ref from the remote repository. Deletions are always[m
-[7m Manual page git-push(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           accepted without a leading [1m+[0m in the refspec (or [1m--force[0m), except when forbidden by configuration or hooks.[m
-[7m Manual page git-push(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           See [1mreceive.denyDeletes[0m in [1mgit-config[0m(1) and [1mpre-receive[0m and [1mupdate[0m in [1mgithooks[0m(5).[m
-[7m Manual page git-push(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           The special refspec [1m:[0m (or [1m+:[0m to allow non-fast-forward updates) directs Git to push "matching" branches:[m
-[7m Manual page git-push(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           for every branch that exists on the local side, the remote side is updated if a branch of the same name[m
-[7m Manual page git-push(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           already exists on the remote side.[m
-[7m Manual page git-push(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mtag[0m [1m<tag>[0m means the same as [1mrefs/tags/<tag>:refs/tags/<tag>[0m.[m
-[7m Manual page git-push(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --all[m
-[7m Manual page git-push(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Push all branches (i.e. refs under [1mrefs/heads/[0m); cannot be used with other <refspec>.[m
-[7m Manual page git-push(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --prune[m
-[7m Manual page git-push(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Remove remote branches that don’t have a local counterpart. For example a remote branch [1mtmp[0m will be[m
-[7m Manual page git-push(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           removed if a local branch with the same name doesn’t exist any more. This also respects refspecs, e.g.[m
-[7m Manual page git-push(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mgit[0m [1mpush[0m [1m--prune[0m [1mremote[0m [1mrefs/heads/*:refs/tmp/*[0m would make sure that remote [1mrefs/tmp/foo[0m will be removed[m
-[7m Manual page git-push(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           if [1mrefs/heads/foo[0m doesn’t exist.[m
-[7m Manual page git-push(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --mirror[m
-[7m Manual page git-push(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Instead of naming each ref to push, specifies that all refs under [1mrefs/[0m (which includes but is not limited[m
-[7m Manual page git-push(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           to [1mrefs/heads/[0m, [1mrefs/remotes/[0m, and [1mrefs/tags/[0m) be mirrored to the remote repository. Newly created local[m
-[7m Manual page git-push(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           refs will be pushed to the remote end, locally updated refs will be force updated on the remote end, and[m
-[7m Manual page git-push(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           deleted refs will be removed from the remote end. This is the default if the configuration option[m
-[7m Manual page git-push(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mremote.<remote>.mirror[0m is set.[m
-[7m Manual page git-push(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -n, --dry-run[m
-[7m Manual page git-push(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Do everything except actually send the updates.[m
-[7m Manual page git-push(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --porcelain[m
-[7m Manual page git-push(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Produce machine-readable output. The output status line for each ref will be tab-separated and sent to[m
-[7m Manual page git-push(1) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           stdout instead of stderr. The full symbolic names of the refs will be given.[m
-[7m Manual page git-push(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-push(1) line 86 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git help pushpush origin Master[K[K[K[K[K[K[K[K[K[K[K[K[Kall
-fatal: 'all' does not appear to be a git repository
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push allhelp push
-[?1049h[22;0;0t[?1h=GIT-PUSH(1)                                                                  Git Manual                                                                 GIT-PUSH(1)[m
-[m
-[1mNAME[0m[m
-       git-push - Update remote refs along with associated objects[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpush[24m [--all | --mirror | --tags] [--follow-tags] [--atomic] [-n | --dry-run] [--receive-pack=<git-receive-pack>][m
-                  [--repo=<repository>] [-f | --force] [-d | --delete] [--prune] [-v | --verbose][m
-                  [-u | --set-upstream] [-o <string> | --push-option=<string>][m
-                  [--[no-]signed|--signed=(true|false|if-asked)][m
-                  [--force-with-lease[=<refname>[:<expect>]]][m
-                  [--no-verify] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Updates remote refs using local refs, while sending objects necessary to complete the given refs.[m
-[m
-       You can make interesting things happen to a repository every time you push into it, by setting up [4mhooks[24m there. See documentation for [1mgit-receive-pack[0m(1).[m
-[m
-       When the command line does not specify where to push with the [1m<repository>[0m argument, [1mbranch.*.remote[0m configuration for the current branch is consulted to[m
-       determine where to push. If the configuration is missing, it defaults to [4morigin[24m.[m
-[m
-       When the command line does not specify what to push with [1m<refspec>...[0m arguments or [1m--all[0m, [1m--mirror[0m, [1m--tags[0m options, the command finds the default [1m<refspec>[0m[m
-       by consulting [1mremote.*.push[0m configuration, and if it is not found, honors [1mpush.default[0m configuration to decide what to push (See [1mgit-config[0m(1) for the[m
-       meaning of [1mpush.default[0m).[m
-[m
-       When neither the command-line nor the configuration specify what to push, the default behavior is used, which corresponds to the [1msimple[0m value for[m
-       [1mpush.default[0m: the current branch is pushed to the corresponding upstream branch, but as a safety measure, the push is aborted if the upstream branch does[m
-       not have the same name as the local one.[m
-[m
-[1mOPTIONS[0m[m
-       <repository>[m
-           The "remote" repository that is destination of a push operation. This parameter can be either a URL (see the section GIT URLS below) or the name of a[m
-           remote (see the section REMOTES below).[m
-[m
-       <refspec>...[m
-           Specify what destination ref to update with what source object. The format of a <refspec> parameter is an optional plus [1m+[0m, followed by the source object[m
-           <src>, followed by a colon [1m:[0m, followed by the destination ref <dst>.[m
-[m
-           The <src> is often the name of the branch you would want to push, but it can be any arbitrary "SHA-1 expression", such as [1mmaster~4[0m or [1mHEAD[0m (see[m
-           [1mgitrevisions[0m(7)).[m
-[m
-           The <dst> tells which ref on the remote side is updated with this push. Arbitrary expressions cannot be used here, an actual ref must be named. If [1mgit[0m[m
-           [1mpush[0m [1m[<repository>][0m without any [1m<refspec>[0m argument is set to update some ref at the destination with [1m<src>[0m with [1mremote.<repository>.push[0m configuration[m
-[7m Manual page git-push(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git -push
-unknown option: -push
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push [K[K[Kll origin
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote show
-origin
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push
-fatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin master
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[K origin master[7Premote showpull origin
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pull originsh origin master[7Pll origin[K[K[K[K[K[K
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pull origin[Korigin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pull origin master[Koriginsh origin master[K origin master[K
-fatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin master
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pushll origin mastersh[K --set-upstrem[Kam origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git help pull
-[?1049h[22;0;0t[?1h=GIT-PULL(1)                                                                  Git Manual                                                                 GIT-PULL(1)[m
-[m
-[1mNAME[0m[m
-       git-pull - Fetch from and integrate with another repository or a local branch[m
-[m
-[1mSYNOPSIS[0m[m
-       [4mgit[24m [4mpull[24m [<options>] [<repository> [<refspec>...]][m
-[m
-[1mDESCRIPTION[0m[m
-       Incorporates changes from a remote repository into the current branch. In its default mode, [1mgit[0m [1mpull[0m is shorthand for [1mgit[0m [1mfetch[0m followed by [1mgit[0m [1mmerge[0m[m
-       [1mFETCH_HEAD[0m.[m
-[m
-       More precisely, [4mgit[24m [4mpull[24m runs [4mgit[24m [4mfetch[24m with the given parameters and calls [4mgit[24m [4mmerge[24m to merge the retrieved branch heads into the current branch. With[m
-       [1m--rebase[0m, it runs [4mgit[24m [4mrebase[24m instead of [4mgit[24m [4mmerge[24m.[m
-[m
-       <repository> should be the name of a remote repository as passed to [1mgit-fetch[0m(1). <refspec> can name an arbitrary remote ref (for example, the name of a[m
-       tag) or even a collection of refs with corresponding remote-tracking branches (e.g., refs/heads/*:refs/remotes/origin/*), but usually it is the name of a[m
-       branch in the remote repository.[m
-[m
-       Default values for <repository> and <branch> are read from the "remote" and "merge" configuration for the current branch as set by [1mgit-branch[0m(1) [1m--track[0m.[m
-[m
-       Assume the following history exists and the current branch is "[1mmaster[0m":[m
-[m
-                     A---B---C master on origin[m
-                    /[m
-               D---E---F---G master[m
-                   ^[m
-                   origin/master in your repository[m
-[m
-       Then "[1mgit[0m [1mpull[0m" will fetch and replay the changes from the remote [1mmaster[0m branch since it diverged from the local [1mmaster[0m (i.e., [1mE[0m) until its current commit[m
-       ([1mC[0m) on top of [1mmaster[0m and record the result in a new commit along with the names of the two parent commits and a log message from the user describing the[m
-       changes.[m
-[m
-                     A---B---C origin/master[m
-                    /         \[m
-               D---E---F---G---H master[m
-[m
-       See [1mgit-merge[0m(1) for details, including how conflicts are presented and handled.[m
-[m
-       In Git 1.7.0 or later, to cancel a conflicting merge, use [1mgit[0m [1mreset[0m [1m--merge[0m. [1mWarning[0m: In older versions of Git, running [4mgit[24m [4mpull[24m with uncommitted changes is[m
-       discouraged: while possible, it leaves you in a state that may be hard to back out of in the case of a conflict.[m
-[m
-       If any of the remote changes overlap with local uncommitted changes, the merge will be automatically canceled and the work tree untouched. It is generally[m
-[7m Manual page git-pull(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       best to get any local changes in working order before pulling or stash them away with [1mgit-stash[0m(1).[m
-[7m Manual page git-pull(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mOPTIONS[0m[m
-[7m Manual page git-pull(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -q, --quiet[m
-[7m Manual page git-pull(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This is passed to both underlying git-fetch to squelch reporting of during transfer, and underlying git-merge to squelch output during merging.[m
-[7m Manual page git-pull(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -v, --verbose[m
-[7m Manual page git-pull(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Pass --verbose to git-fetch and git-merge.[m
-[7m Manual page git-pull(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --[no-]recurse-submodules[=yes|on-demand|no][m
-[7m Manual page git-pull(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This option controls if new commits of all populated submodules should be fetched and updated, too (see [1mgit-config[0m(1) and [1mgitmodules[0m(5)).[m
-[7m Manual page git-pull(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           If the checkout is done via rebase, local submodule commits are rebased as well.[m
-[7m Manual page git-pull(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           If the update is done via merge, the submodule conflicts are resolved and checked out.[m
-[7m Manual page git-pull(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mOptions[0m [1mrelated[0m [1mto[0m [1mmerging[0m[m
-[7m Manual page git-pull(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --commit, --no-commit[m
-[7m Manual page git-pull(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Perform the merge and commit the result. This option can be used to override --no-commit.[m
-[7m Manual page git-pull(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With --no-commit perform the merge and stop just before creating a merge commit, to give the user a chance to inspect and further tweak the merge result[m
-[7m Manual page git-pull(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           before committing.[m
-[7m Manual page git-pull(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Note that fast-forward updates do not create a merge commit and therefore there is no way to stop those merges with --no-commit. Thus, if you want to[m
-[7m Manual page git-pull(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           ensure your branch is not changed or updated by the merge command, use --no-ff with --no-commit.[m
-[7m Manual page git-pull(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --edit, -e, --no-edit[m
-[7m Manual page git-pull(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Invoke an editor before committing successful mechanical merge to further edit the auto-generated merge message, so that the user can explain and[m
-[7m Manual page git-pull(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           justify the merge. The [1m--no-edit[0m option can be used to accept the auto-generated message (this is generally discouraged).[m
-[7m Manual page git-pull(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Older scripts may depend on the historical behaviour of not allowing the user to edit the merge log message. They will see an editor opened when they[m
-[7m Manual page git-pull(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           run [1mgit[0m [1mmerge[0m. To make it easier to adjust such scripts to the updated behaviour, the environment variable [1mGIT_MERGE_AUTOEDIT[0m can be set to [1mno[0m at the[m
-[7m Manual page git-pull(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           beginning of them.[m
-[7m Manual page git-pull(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --cleanup=<mode>[m
-[7m Manual page git-pull(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This option determines how the merge message will be cleaned up before committing. See [1mgit-commit[0m(1) for more details. In addition, if the [4m<mode>[24m is[m
-[7m Manual page git-pull(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           given a value of [1mscissors[0m, scissors will be appended to [1mMERGE_MSG[0m before being passed on to the commit machinery in the case of a merge conflict.[m
-[7m Manual page git-pull(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --ff, --no-ff, --ff-only[m
-[7m Manual page git-pull(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Specifies how a merge is handled when the merged-in history is already a descendant of the current history.  [1m--ff[0m is the default unless merging an[m
-[7m Manual page git-pull(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           annotated (and possibly signed) tag that is not stored in its natural place in the [1mrefs/tags/[0m hierarchy, in which case [1m--no-ff[0m is assumed.[m
-[7m Manual page git-pull(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With [1m--ff[0m, when possible resolve the merge as a fast-forward (only update the branch pointer to match the merged branch; do not create a merge commit).[m
-[7m Manual page git-pull(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           When not possible (when the merged-in history is not a descendant of the current history), create a merge commit.[m
-[7m Manual page git-pull(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With [1m--no-ff[0m, create a merge commit in all cases, even when the merge could instead be resolved as a fast-forward.[m
-[7m Manual page git-pull(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With [1m--ff-only[0m, resolve the merge as a fast-forward when possible. When not possible, refuse to merge and exit with a non-zero status.[m
-[7m Manual page git-pull(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -S[<keyid>], --gpg-sign[=<keyid>][m
-[7m Manual page git-pull(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           GPG-sign the resulting merge commit. The [1mkeyid[0m argument is optional and defaults to the committer identity; if specified, it must be stuck to the option[m
-[7m Manual page git-pull(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           without a space.[m
-[7m Manual page git-pull(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --log[=<n>], --no-log[m
-[7m Manual page git-pull(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           In addition to branch names, populate the log message with one-line descriptions from at most <n> actual commits that are being merged. See also [1mgit-[0m[m
-[7m Manual page git-pull(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mfmt-merge-msg[0m(1).[m
-[7m Manual page git-pull(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With --no-log do not list one-line descriptions from the actual commits being merged.[m
-[7m Manual page git-pull(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --signoff, --no-signoff[m
-[7m Manual page git-pull(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Add Signed-off-by line by the committer at the end of the commit log message. The meaning of a signoff depends on the project, but it typically[m
-[7m Manual page git-pull(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           certifies that committer has the rights to submit this work under the same license and agrees to a Developer Certificate of Origin (see[m
-[7m Manual page git-pull(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mhttp://developercertificate.org/[0m for more information).[m
-[7m Manual page git-pull(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With --no-signoff do not add a Signed-off-by line.[m
-[7m Manual page git-pull(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --stat, -n, --no-stat[m
-[7m Manual page git-pull(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Show a diffstat at the end of the merge. The diffstat is also controlled by the configuration option merge.stat.[m
-[7m Manual page git-pull(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With -n or --no-stat do not show a diffstat at the end of the merge.[m
-[7m Manual page git-pull(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --squash, --no-squash[m
-[7m Manual page git-pull(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Produce the working tree and index state as if a real merge happened (except for the merge information), but do not actually make a commit, move the[m
-[7m Manual page git-pull(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           [1mHEAD[0m, or record [1m$GIT_DIR/MERGE_HEAD[0m (to cause the next [1mgit[0m [1mcommit[0m command to create a merge commit). This allows you to create a single commit on top of[m
-[7m Manual page git-pull(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           the current branch whose effect is the same as merging another branch (or more in case of an octopus).[m
-[7m Manual page git-pull(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With --no-squash perform the merge and commit the result. This option can be used to override --squash.[m
-[7m Manual page git-pull(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           With --squash, --commit is not allowed, and will fail.[m
-[7m Manual page git-pull(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --no-verify[m
-[7m Manual page git-pull(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           This option bypasses the pre-merge and commit-msg hooks. See also [1mgithooks[0m(5).[m
-[7m Manual page git-pull(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -s <strategy>, --strategy=<strategy>[m
-[7m Manual page git-pull(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Use the given merge strategy; can be supplied more than once to specify them in the order they should be tried. If there is no [1m-s[0m option, a built-in[m
-[7m Manual page git-pull(1) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           list of strategies is used instead ([4mgit[24m [4mmerge-recursive[24m when merging a single head, [4mgit[24m [4mmerge-octopus[24m otherwise).[m
-[7m Manual page git-pull(1) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -X <option>, --strategy-option=<option>[m
-[7m Manual page git-pull(1) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Pass merge strategy specific option through to the merge strategy.[m
-[7m Manual page git-pull(1) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --verify-signatures, --no-verify-signatures[m
-[7m Manual page git-pull(1) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Verify that the tip commit of the side branch being merged is signed with a valid key, i.e. a key that has a valid uid: in the default trust model, this[m
-[7m Manual page git-pull(1) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           means the signing key has been signed by a trusted key. If the tip commit of the side branch is not signed with a valid key, the merge is aborted.[m
-[7m Manual page git-pull(1) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --summary, --no-summary[m
-[7m Manual page git-pull(1) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           Synonyms to --stat and --no-stat; these are deprecated and will be removed in the future.[m
-[7m Manual page git-pull(1) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page git-pull(1) line 98 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       --allow-unrelated-histories[m
-[7m Manual page git-pull(1) line 99 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           By default, [1mgit[0m [1mmerge[0m command refuses to merge histories that do not share a common ancestor. This option can be used to override this safety when[m
-[7m Manual page git-pull(1) line 100 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           merging histories of two projects that started their lives independently. As that is a very rare occasion, no configuration variable to enable this by[m
-[7m Manual page git-pull(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K           default exists and will not be added.[m
-[7m Manual page git-pull(1) line 102 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git log
-[?1h=[33mcommit 410e45cc7955e015be88aea2ef64f77a424f1b78[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
-Author: Shariar365 <shafinchowdhury2002@gmail.com>[m
-Date:   Mon Sep 5 22:37:21 2022 -0400[m
-[m
-    first[m
-[K[?1l>]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote 
-origin
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git mo[K[Kremote origin
-error: Unknown subcommand: origin
-usage: git remote [-v | --verbose]
-   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
-   or: git remote rename <old> <new>
-   or: git remote remove <name>
-   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
-   or: git remote [-v | --verbose] show [-n] <name>
-   or: git remote prune [-n | --dry-run] <name>
-   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
-   or: git remote set-branches [--add] <name> <branch>...
-   or: git remote get-url [--push] [--all] <name>
-   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    -v, --verbose         be verbose; must be placed before a subcommand
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote get-url
-usage: git remote get-url [--push] [--all] <name>
-
-    --push                query push URLs rather than fetch URLs
-    --all                 return all URLs
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename  [C[C[C .git
-usage: git remote rename <old> <new>
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename ""h"t"t"p"s":"/"g"i"t"h"u"b"."c"o"m"/"S"h"a"r"i"a"r"3"6"5"/"C"i"s"c"-"3"1"4"2"."g"u"t"[1P"[1P"i"t"[C [C[C[C[C""h"t"t"p"s":"/"/"g"i"t"h"u"b"."c"o"m"/"S"h"a"r"i"a"r"3"6"5"/"C"i"s"c"-"3"1"4"2"."g"i"t"[C
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142.git'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename "https:/github.com/Shariar365/Cisc-3142.git" "https://github.com/Shariar365/Cisc-3142.git"[1P-3142.git"[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@t[C[1P "https://github.com/Shariar365/Cis-3142.git"[C[C[C[1Phttps://github.com/Shariar365/Cis-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142.git'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename https:/github.com/Shariar365/Cisc-3142.git https://github.com/Shariar365/Cis-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"https:/github.com/Shariar365/Cisc-3142.git" "https://github.com/Shariar365/Cisc-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Phttps:/github.com/Shariar365/Cisc-3142.git https://github.com/Shariar365/Cis-3142.git[C[Cc-3142.git[C[C[C[C[C[C[C[C[C
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142.git'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ ^[[Agit remote rename https:/github.com/Shariar365/Cisc-3142.git https://github.com/Shariar365/Cisc-3142.git[1Pit[C[1Pt[1Pt[C[K[1P[1P[1P[1P[C[1@2[C[1P https://github.com/Shariar365/Cisc-3142[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142[C[C[C[1@ [1@i[1@r[1@g[1@i[1@n[1P[1P[1P[1P[1P[1@o[1@r[1@i[1@g[1@i[1@n
-usage: git remote rename <old> <new>
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote rename origin https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote name 
-error: Unknown subcommand: name
-usage: git remote [-v | --verbose]
-   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
-   or: git remote rename <old> <new>
-   or: git remote remove <name>
-   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
-   or: git remote [-v | --verbose] show [-n] <name>
-   or: git remote prune [-n | --dry-run] <name>
-   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
-   or: git remote set-branches [--add] <name> <branch>...
-   or: git remote get-url [--push] [--all] <name>
-   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    -v, --verbose         be verbose; must be placed before a subcommand
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git ren[Kmote 
-origin
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push irgi[K[K[K[K[Kremote name rename https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142
-fatal: No such remote: 'https:/github.com/Shariar365/Cisc-3142'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ get [K[K[Kit coni[Kfig get remote.origin.url
-error: key does not contain a section: get
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config get remote.origin.url[C[1@-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-error: did you mean `--get` (with two dashes)?
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config -get remote.origin.url[1@-[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url
-usage: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    --push                manipulate push URLs
-    --add                 add URL
-    --delete              delete URLs
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pish [K[K[K[Kush p[Korigin master
-fatal: no path specified; see 'git help pull' for valid url syntax
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote -v
-origin	 (fetch)
-origin	 (push)
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url orgin-v[Kpush origin master[4Premote set-urlconfig --get remote.origin.url[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote rename https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[1P https://github.com/Shariar365/Cisc-3142[C https://github.com/Shariar365/Cisc-3142s https://github.com/Shariar365/Cisc-3142e https://github.com/Shariar365/Cisc-3142t https://github.com/Shariar365/Cisc-3142[C https://github.com/Shariar365/Cisc-3142[1@-[1@u[1@r[1@l[C[C https://github.com/Shariar365/Cisc-3142[1@o[1@r[1@i[1@g[1@i[1@n[C[1Phttps://github.com/Shariar365/Cisc-3142[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push orgin m[K[K[K[K[Kigin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git oush [K[K[K[K[Kpush origin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-Username for 'https://github.com': ^[[A^[[A^[[A^[[A                Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[C[1@ [C[1@-[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-Username for 'https://github.com': Shariar6 365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git log
-[?1h=[33mcommit 410e45cc7955e015be88aea2ef64f77a424f1b78[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
-Author: Shariar365 <shafinchowdhury2002@gmail.com>[m
-Date:   Mon Sep 5 22:37:21 2022 -0400[m
-[m
-    first[m
-[K[?1l>]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git logpush origin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterlog[Kpush origin master
-Username for 'https://github.com': Shariar365
-Password for 'https://Shariar365@github.com': 
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global credential.helper manah[Kger
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git[K[K[Kgit config --global credential.helper manager[23Ppush origin master
-git: 'credential-manager' is not a git command. See 'git --help'.
-Username for 'https://github.com': ^[[A^[[A        ^[[A^[[A^[[A^[[A                
-Password for 'https://github.com': 
-git: 'credential-manager' is not a git command. See 'git --help'.
-remote: No anonymous write access.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterconfig --global credential.helper manager
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global credential.helper manager[23Ppush origin master
-git: 'credential-manager' is not a git command. See 'git --help'.
-Username for 'https://github.com': Shat riar365
-Password for 'https://Shariar365@github.com': 
-git: 'credential-manager' is not a git command. See 'git --help'.
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterconfig --global credential.helper manager
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git config --global credential.helper manager[23Ppush origin master
-git: 'credential-manager' is not a git command. See 'git --help'.
-Username for 'https://github.com': Sg hariar365
-Password for 'https://Shariar365@github.com': 
-git: 'credential-manager' is not a git command. See 'git --help'.
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterconfig --global credential.helper manager[23Ppush origin master
-git: 'credential-manager' is not a git command. See 'git --help'.
-Username for 'https://github.com': Shat riar365
-Password for 'https://Shariar365@github.com': 
-git: 'credential-manager' is not a git command. See 'git --help'.
-remote: Support for password authentication was removed on August 13, 2021.
-remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git --helo
-unknown option: --helo
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git --help
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           <command> [<args>]
-
-These are common Git commands used in various situations:
-
-start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory
-   init              Create an empty Git repository or reinitialize an existing one
-
-work on the current change (see also: git help everyday)
-   add               Add file contents to the index
-   mv                Move or rename a file, a directory, or a symlink
-   restore           Restore working tree files
-   rm                Remove files from the working tree and from the index
-   sparse-checkout   Initialize and modify the sparse-checkout
-
-examine the history and state (see also: git help revisions)
-   bisect            Use binary search to find the commit that introduced a bug
-   diff              Show changes between commits, commit and working tree, etc
-   grep              Print lines matching a pattern
-   log               Show commit logs
-   show              Show various types of objects
-   status            Show the working tree status
-
-grow, mark and tweak your common history
-   branch            List, create, or delete branches
-   commit            Record changes to the repository
-   merge             Join two or more development histories together
-   rebase            Reapply commits on top of another base tip
-   reset             Reset current HEAD to the specified state
-   switch            Switch branches
-   tag               Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch             Download objects and refs from another repository
-   pull              Fetch from and integrate with another repository or a local branch
-   push              Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ [K]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push 
-fatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin master
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push --helpopush origin master
-git: 'credential-manager' is not a git command. See 'git --help'.
-Username for 'https://github.com': ^[[A  
-Password for 'https://@github.com': 
-git: 'credential-manager' is not a git command. See 'git --help'.
-remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/Shariar365/Cisc-3142/'
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[K--helpopush origin masterconfig --global credential.helper manager[23Ppush origin masterconfig --global credential.helper manager[23Ppush origin masterconfig --global credential.helper manager[23Ppush origin masterlog[Kpush origin master[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[C[3P[C[C[C[C[C[C[C[C[C[C[C[C[Cremote set-url origin https://github.com/Shariar365/Cisc-3142-v[Kpush origin master[4Premote set-urlconfig --get remote.origin.url[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote rename https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kname rename https:/github.com/Shariar365/Cisc-3142 https://github.com/Shariar365/Cisc-3142[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@origin [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.git https://github.com/Shariar365/Cisc-3142.git[1P-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"https:/github.com/Shariar365/Cisc-3142.git" "https://github.com/Shariar365/Cisc-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  .git[K[6Pget-url[1Porigin[Kpush origin masterlog[Khelp pull[6Ploghelp pullpush --set-upstream origin master[Kll origin master[Koriginsh origin master[K origin master[7Premote showpull originsh origin master-push[Khelp push[1Ppush allhelp pushpush origin MasterCisc-3142[3Pmaster[4PCisc-3142cisc 3142[3Pmasterorigin master[7Pmaster[2Phelp pullpush origin master[K origin master[1Pcommit -m "first"nfig --global user.name Shariar365email shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar365email shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar265email shafinchowdhury2002@gmail.com[11Pshafinchowdhury2002@gmail.com[7Pshafinchowdhury2002@gmail.com[21Pmmit -m "first"[K[4Padd .remote -vadd origin "https:/github.com/Shariar365/Cisc-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[38Pcommit -m "first commit"add .[K[1P.remote -v[4P[C[C[C[C[C[C[C[C[Cgit remote add origin ^Mcommit -m "my first commit"[9Premote add origin commit -m "my first commit"add .[K[Kremote -vadd origin ^M[Kinit[K[5Psshgit logaddlog[K log./a.outout.txt./a.outgit log[K logaddlog[4Psshgit initremote add origin ^M-v[K[5Padd .commit -m "my first commit"[9Premote add origin commit -m "my first commit"[7Premote add origin ^M[15Premote -v[4@git [C[C[C[C[C[C[C[C[C[5Padd. .commit -m "first commit"remote add origin "https:/github.com/Shariar365/Cisc-3142.git"-v[K[4Padd .commit -m "first"nfig --shafinchowdhury2002@gmail.comglobal shafinchowdhury2002@gmail.comuser.email shafinchowdhury2002@gmail.com[16Pusername Shariar265[23Pmmit -m "first"nfig --global user.email shafinchowdhury2002@gmail.com[16Pusername Shariar365[23Pmmit -m "first"nfig --global user.email shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[20Pname Shariar365[19Pmmit -m "first"push origin master[K origin master[K origin master[1Pcommit -m "first"nfig --global user.name Shariar365email shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.email shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar365email shafinchowdhury2002@gmail.commmit -m "first"[Knfig --global user.username Shariar265email shafinchowdhury2002@gmail.com[11Pshafinchowdhury2002@gmail.com[7Pshafinchowdhury2002@gmail.com[21Pmmit -m "first"[K[4Padd .remote -vadd origin "https:/github.com/Shariar365/Cisc-3142.git"-v[Kadd origin "https:/github.com/Shariar365/Cisc-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[38Pcommit -m "first commit"remote add origin "https:/github.com/Shariar365/Cisc-3142.git"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[38Pcommit -m "first commit"add .[K[1P.remote -v[5Padd. .commit -m "first commit"remote add origin "https:/github.com/Shariar365/Cisc-3142.git"-v[K[4Padd .commit -m "first"nfig --shafinchowdhury2002@gmail.comglobal shafinchowdhury2002@gmail.comuser.email shafinchowdhury2002@gmail.com[16Pusername Shariar265[23Pmmit -m "first"nfig --global user.email shafinchowdhury2002@gmail.com[16Pusername Shariar365email shafinchowdhury2002@gmail.com[16Pusername Shariar365[23Pmmit -m "first"nfig --global user.email shafinchowdhury2002@gmail.com[5Pusername Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[9Pname Asm Shariar Chowdhuryemail shafinchowdhury2002@gmail.com[20Pname Shariar365[19Pmmit -m "first"push origin master[K origin master[9Phelp pullpush masterorigin master[7Pmastercisc 3142Cisc-3142origin masterCisc-3142[3PMaster[9Phelp pushpush origin Master[9Phelp push[1Ppush allhelp push[1Ppush allhelp pushpush origin MasterCisc-3142[3PMaster[9Phelp push[1Ppush allhelp push[4P-pushpush origin master[7Pll originremote show[K[K[K[Kset-url ^M[K^M[K^M
-usage: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    --push                manipulate push URLs
-    --add                 add URL
-    --delete              delete URLs
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url ^M[K^M[K^M
-usage: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    --push                manipulate push URLs
-    --add                 add URL
-    --delete              delete URLs
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url ^M[C[Cpush origin master[1Premote set-url ^M[Kgit@github.com:Shariar365/CI[Kisc-3142.git
-usage: git remote set-url [--push] <name> <newurl> [<oldurl>]
-   or: git remote set-url --add <name> <newurl>
-   or: git remote set-url --delete <name> <url>
-
-    --push                manipulate push URLs
-    --add                 add URL
-    --delete              delete URLs
-
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url git@github.com:Shariar365/Cisc-3142.git[C git@github.com:Shariar365/Cisc-3142.git[C git@github.com:Shariar365/Cisc-3142.git[C git@github.com:Shariar365/Cisc-3142.git[1@o[1@r[1@i[1@g[1@i[1@n[C[C[1Pgit@github.com:Shariar365/Cisc-3142.git[C[1Pgit@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url origin git@github.com:Shariar365/Cisc-3142.git[7Pgit@github.com:Shariar365/Cisc-3142.git^M[Kpush origin master
-The authenticity of host 'github.com (140.82.114.4)' can't be established.
-ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? ^[[A^[[B^[[A^[[A                
-Host key verification failed.
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterremote set-url origin git@github.com:Shariar365/Cisc-3142.git
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git co,,,[K[K[Kmmit -m ::[C[K[1P:[C[K ""f"i"r"s"t"[C
-On branch master
-nothing to commit, working tree clean
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-The authenticity of host 'github.com (140.82.113.4)' can't be established.
-ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? 
-Host key verification failed.
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[1Pcommit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K[1Pcommit -m "first"
-On branch master
-nothing to commit, working tree clean
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K
-The authenticity of host 'github.com (140.82.112.3)' can't be established.
-ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? te  yes
-Warning: Permanently added 'github.com,140.82.112.3' (ECDSA) to the list of known hosts.
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[1Pcommit -m "first"
-On branch master
-nothing to commit, working tree clean
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"push origin master
-Warning: Permanently added the ECDSA host key for IP address '140.82.114.3' to the list of known hosts.
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[1Pcommit -m "first"push origin master[1Pcommit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K[1Pcommit -m "first"
-On branch master
-nothing to commit, working tree clean
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K[1Pcommit -m "first"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kbranch -M main
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push -u origin main
-Warning: Permanently added the ECDSA host key for IP address '140.82.112.4' to the list of known hosts.
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push -u origin main[5Pbranch -M[C[C[C[C[Ccommit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git[K[K[K[K
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url origin git@github.com:Shariar365/Cisc-3142[38Ppush -u origin main
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push -u origin mainremote set-url origin git@github.com:Shariar365/Cisc-3142[38Ppush -u origin main[5Pbranch -M[C[C[C[C[C[5@push -u origin[C[C[C[C[C
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push -u origin mainremote set-url origin git@github.com:Shariar365/Cisc-3142[38Ppush -u origin main[5Pbranch -M[C[C[C[C[Ccommit -m "first"remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K
-error: src refspec master does not match any
-[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142'
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master-u origin mainremote set-url origin git@github.com:Shariar365/Cisc-3142[38Ppush -u origin mainremote set-url origin git@github.com:Shariar365/Cisc-3142.git
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git remote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K
-error: src refspec master does not match any
-[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142.git'
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin masterremote set-url origin git@github.com:Shariar365/Cisc-3142.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush origin master[K-u origin mainremote set-url origin git@github.com:Shariar365/Cisc-3142[38Ppush -u origin main[5Pbranch -M[C[C[C[C[Ccommit -m "first"
-On branch main
-nothing to commit, working tree clean
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "first"push origin master
-error: src refspec master does not match any
-[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142.git'
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git push origin master[1Pcommit -m "first"push origin master
-error: src refspec master does not match any
-[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142.git'
-[m]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ exit
-exit
-
-Script done on 2022-09-05 23:54:55-04:00 [COMMAND_EXIT_CODE="1"]
