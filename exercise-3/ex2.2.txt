@@ -1,0 +1,3 @@
+rate:double because rate has to be precise and could be fraction.
+principal:Float because small fractional numbers.
+payment: int because, it cant be fractional value.

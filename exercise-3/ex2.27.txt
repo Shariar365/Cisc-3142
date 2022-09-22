@@ -1,0 +1,3 @@
+a, c, g
+
+Because they were initialized properly
