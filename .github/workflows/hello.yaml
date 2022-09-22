@@ -1,0 +1,10 @@
+name: Hello-World
+on: [push]
+jobs:
+  HelloWorld:
+    runs-on: actions/checkout@v2
+    steps:
+       -run: echo "Running Makefile"
+       -name: create prog
+        run:  g++ hello.cpp
+       -run:./a.out
