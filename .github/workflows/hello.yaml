@@ -1,0 +1,6 @@
+name: hello-world
+on: push
+jobs:
+  my-job:
+    runs-on:  actions/checkout@v2
+        run: echo "Hello World!"
