@@ -9,4 +9,143 @@ fatal: adding files failed
 ]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit [K[K[K[K[K[K[K[K[K[K[Kgit add .[5Pcd -git initmake lab2[5Plab2make lab2[K [K lab2[5Pcd -touch lab2cd exercise-2[3Pexercise-2[6Pcd -makecd exercise-2make[Ktouch make lab2[2Pcd exercise_1git push -u origin maincommit -m "second commit"add .[Kcd exercise_1[3Pexercise_1cd exercise_1[4Pgit add .cd exercise_1[4Pgit add .
 error: 'exercise-3/' does not have a commit checked out
 fatal: adding files failed
-]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .[5Pcd -git initmake lab2[5Plab2make lab2[K lab2[K [K lab2[5Pcd -touch lab2cd exercise-2[3Pexercise-2[6Pcd -makecd exercise-2make[Ktouch make lab2[2Pcd exercise_1git push -u origin maincommit -m "second commit"add .[Kcommit -
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .[5Pcd -git initmake lab2[5Plab2make lab2[K lab2[K [K lab2[5Pcd -touch lab2cd exercise-2[3Pexercise-2[6Pcd -makecd exercise-2make[Ktouch make lab2[2Pcd exercise_1git push -u origin maincommit -m "second commit"add .[Kcommit -m "second commit"[1P[1P[1P[1P[1P[C[1P commit"t commit"h commit"i commit"r commit"d commit"[C[C[C[C[C[C[C[C
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mexercise-2/lab2[m
+	[31mexercise-3/[m
+	[31mreadme.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "third commit"add .[K[K
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .
+error: 'exercise-3/' does not have a commit checked out
+fatal: adding files failed
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git add .[Kcommit -m "third commit"
+[main 578e12f] third commit
+ 16 files changed, 120 insertions(+)
+ create mode 100644 exercise-2/lab2
+ create mode 100644 exercise-3/Exercise-3.md
+ create mode 100644 exercise-3/ex2.1.txt
+ create mode 100644 exercise-3/ex2.10.txt
+ create mode 100644 exercise-3/ex2.12.txt
+ create mode 100644 exercise-3/ex2.13.txt
+ create mode 100644 exercise-3/ex2.14.txt
+ create mode 100644 exercise-3/ex2.17.txt
+ create mode 100644 exercise-3/ex2.2.txt
+ create mode 100644 exercise-3/ex2.27.txt
+ create mode 100644 exercise-3/ex2.28.txt
+ create mode 100644 exercise-3/ex2.3.txt
+ create mode 100644 exercise-3/readme.md
+ create mode 100644 exercise-3/script-linux-2022-09-22.log
+ create mode 100644 exercise-3/time-2022-09-22.txt
+ create mode 100644 readme.md
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git commit -m "third commit"add .[K[Kcommit -m "third commit"add .[K[5Pcd -git initmake lab2[5Plab2make lab2[K [K lab2[5Pcd -touch lab2cd exercise-2[3Pexercise-2[6Pcd -makecd exercise-2make[Ktouch make lab2[2Pcd exercise_1git push -u origin maincommit -m "second commit"add .[Kcommit -m "second commit"[6Ppush -u origin main
+Enter passphrase for key '/home/asm2000/.ssh/id_rsa': 
+To github.com:Shariar365/Cisc-3142.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git col[K[Klone 
+fatal: You must specify a repository to clone.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recursive ...       alias of --recurse-submodules
+    --recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    -j, --jobs <n>        number of submodules cloned in parallel
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    --reference-if-able <repo>
+                          reference repository
+    --dissociate          use --reference only while cloning
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --shallow-since <time>
+                          create a shallow clone since a specific time
+    --shallow-exclude <revision>
+                          deepen history of shallow clone, excluding rev
+    --single-branch       clone only one branch, HEAD or --branch
+    --no-tags             don't clone any tags, and make later fetches not to follow them
+    --shallow-submodules  any cloned submodules will be shallow
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+    --server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --filter <args>       object filtering
+    --remote-submodules   any cloned submodules will use their remote-tracking branch
+    --sparse              initialize sparse-checkout file to include only files at root
+
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git clone push -u origin main
+Enter passphrase for key '/home/asm2000/.ssh/id_rsa': 
+To github.com:Shariar365/Cisc-3142.git
+ [31m! [rejected]       [m main -> main (fetch first)
+[31merror: failed to push some refs to 'git@github.com:Shariar365/Cisc-3142.git'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pull o0rig[K[K[K[Krigin main
+Enter passphrase for key '/home/asm2000/.ssh/id_rsa': 
+remote: Enumerating objects: 25, done.[K
+remote: Counting objects:   4% (1/25)[Kremote: Counting objects:   8% (2/25)[Kremote: Counting objects:  12% (3/25)[Kremote: Counting objects:  16% (4/25)[Kremote: Counting objects:  20% (5/25)[Kremote: Counting objects:  24% (6/25)[Kremote: Counting objects:  28% (7/25)[Kremote: Counting objects:  32% (8/25)[Kremote: Counting objects:  36% (9/25)[Kremote: Counting objects:  40% (10/25)[Kremote: Counting objects:  44% (11/25)[Kremote: Counting objects:  48% (12/25)[Kremote: Counting objects:  52% (13/25)[Kremote: Counting objects:  56% (14/25)[Kremote: Counting objects:  60% (15/25)[Kremote: Counting objects:  64% (16/25)[Kremote: Counting objects:  68% (17/25)[Kremote: Counting objects:  72% (18/25)[Kremote: Counting objects:  76% (19/25)[Kremote: Counting objects:  80% (20/25)[Kremote: Counting objects:  84% (21/25)[Kremote: Counting objects:  88% (22/25)[Kremote: Counting objects:  92% (23/25)[Kremote: Counting objects:  96% (24/25)[Kremote: Counting objects: 100% (25/25)[Kremote: Counting objects: 100% (25/25), done.[K
+remote: Compressing objects:   5% (1/18)[Kremote: Compressing objects:  11% (2/18)[Kremote: Compressing objects:  16% (3/18)[Kremote: Compressing objects:  22% (4/18)[Kremote: Compressing objects:  27% (5/18)[Kremote: Compressing objects:  33% (6/18)[Kremote: Compressing objects:  38% (7/18)[Kremote: Compressing objects:  44% (8/18)[Kremote: Compressing objects:  50% (9/18)[Kremote: Compressing objects:  55% (10/18)[Kremote: Compressing objects:  61% (11/18)[Kremote: Compressing objects:  66% (12/18)[Kremote: Compressing objects:  72% (13/18)[Kremote: Compressing objects:  77% (14/18)[Kremote: Compressing objects:  83% (15/18)[Kremote: Compressing objects:  88% (16/18)[Kremote: Compressing objects:  94% (17/18)[Kremote: Compressing objects: 100% (18/18)[Kremote: Compressing objects: 100% (18/18), done.[K
+remote: Total 22 (delta 2), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:   4% (1/22)Unpacking objects:   9% (2/22)Unpacking objects:  13% (3/22)Unpacking objects:  18% (4/22)Unpacking objects:  22% (5/22)Unpacking objects:  27% (6/22)Unpacking objects:  31% (7/22)Unpacking objects:  36% (8/22)Unpacking objects:  40% (9/22)Unpacking objects:  45% (10/22)Unpacking objects:  50% (11/22)Unpacking objects:  54% (12/22)Unpacking objects:  59% (13/22)Unpacking objects:  63% (14/22)Unpacking objects:  68% (15/22)Unpacking objects:  72% (16/22)Unpacking objects:  77% (17/22)Unpacking objects:  81% (18/22)Unpacking objects:  86% (19/22)Unpacking objects:  90% (20/22)Unpacking objects:  95% (21/22)Unpacking objects: 100% (22/22)Unpacking objects: 100% (22/22), 4.25 KiB | 17.00 KiB/s, done.
+From github.com:Shariar365/Cisc-3142
+ * branch            main       -> FETCH_HEAD
+   382f4fe..e514c58  main       -> origin/main
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;50H(B[0;7m[ Reading... ](B[m[28;49H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                      /mnt/c/Users/19293/exercise_1/.git/MERGE_MSG                                [1;111H(B[m[29d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[30d(B[0;7m^X(B[m Exit[30;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[28d[2d[39;49m(B[mMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main[3d[36m# Please enter a commit message to explain why this merge is necessary,[4d# especially if it merges an updated upstream into a topic branch.[5d#[6d# Lines starting with '#' will be ignored, and an empty message aborts[7d# the commit.[2d[39m(B[m[?12l[?25h[?25l[1;103H(B[0;7mModified(B[m[2d^Merge branch 'main' of github.com:Shariar365/Cisc-3142 into main^[?12l[?25h[?25lXMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main^X[?12l[?25h[?25lxMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main^Xx[?12l[?25h[?25l6Merge branch 'main' of github.com:Shariar365/Cisc-3142 into main[5G[?12l[?25h[?25lxMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main[6G[?12l[?25h[?25l6Merge branch 'main' of github.com:Shariar365/Cisc-3142 into main[7G[?12l[?25h[?25lxMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main[8G[?12l[?25h[?25l^Merge branch 'main' of github.com:Shariar365/Cisc-3142 into main[2;9H[?12l[?25h[?25lXMerge branch 'main' of github.com:Shariar365/Cisc-3142 into main[2;10H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28d(B[0;7mSave modified buffer?                                                                                           [29;1H Y(B[m Yes[K[30d(B[0;7m N(B[m No  [30;18H(B[0;7mC(B[m Cancel[K[28;23H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[KMerge made by the 'recursive' strategy.
+ .github/workflows/hello.cpp  | 10 [32m++++++++++[m
+ .github/workflows/hello.yaml | 10 [32m++++++++++[m
+ .gitignore                   |  3 [32m+++[m
+ 3 files changed, 23 insertions(+)
+ create mode 100644 .github/workflows/hello.cpp
+ create mode 100644 .github/workflows/hello.yaml
+ create mode 100644 .gitignore
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ git pull origin main[3@sh -u[C[C[C[C[C[C[C[C[C[C[C[C
+Enter passphrase for key '/home/asm2000/.ssh/id_rsa': 
+Enumerating objects: 26, done.
+Counting objects:   4% (1/25)Counting objects:   8% (2/25)Counting objects:  12% (3/25)Counting objects:  16% (4/25)Counting objects:  20% (5/25)Counting objects:  24% (6/25)Counting objects:  28% (7/25)Counting objects:  32% (8/25)Counting objects:  36% (9/25)Counting objects:  40% (10/25)Counting objects:  44% (11/25)Counting objects:  48% (12/25)Counting objects:  52% (13/25)Counting objects:  56% (14/25)Counting objects:  60% (15/25)Counting objects:  64% (16/25)Counting objects:  68% (17/25)Counting objects:  72% (18/25)Counting objects:  76% (19/25)Counting objects:  80% (20/25)Counting objects:  84% (21/25)Counting objects:  88% (22/25)Counting objects:  92% (23/25)Counting objects:  96% (24/25)Counting objects: 100% (25/25)Counting objects: 100% (25/25), done.
+Delta compression using up to 4 threads
+Compressing objects:   7% (1/14)Compressing objects:  14% (2/14)Compressing objects:  21% (3/14)Compressing objects:  28% (4/14)Compressing objects:  35% (5/14)Compressing objects:  42% (6/14)Compressing objects:  50% (7/14)Compressing objects:  57% (8/14)Compressing objects:  64% (9/14)Compressing objects:  71% (10/14)Compressing objects:  78% (11/14)Compressing objects:  85% (12/14)Compressing objects:  92% (13/14)Compressing objects: 100% (14/14)Compressing objects: 100% (14/14), done.
+Writing objects:   4% (1/22)Writing objects:   9% (2/22)Writing objects:  13% (3/22)Writing objects:  18% (4/22)Writing objects:  22% (5/22)Writing objects:  27% (6/22)Writing objects:  36% (8/22)Writing objects:  40% (9/22)Writing objects:  45% (10/22)Writing objects:  50% (11/22)Writing objects:  54% (12/22)Writing objects:  59% (13/22)Writing objects:  63% (14/22)Writing objects:  68% (15/22)Writing objects:  72% (16/22)Writing objects:  77% (17/22)Writing objects:  81% (18/22)Writing objects:  86% (19/22)Writing objects:  90% (20/22)Writing objects:  95% (21/22)Writing objects: 100% (22/22)Writing objects: 100% (22/22), 3.09 KiB | 67.00 KiB/s, done.
+Total 22 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), completed with 1 local object.[K
+To github.com:Shariar365/Cisc-3142.git
+   e514c58..a265bdc  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1[00m$ exit
+exit
+
+Script done on 2022-09-22 19:05:06-04:00 [COMMAND_EXIT_CODE="0"]
