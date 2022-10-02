@@ -1,0 +1,30 @@
+Script started on 2022-10-01 23:45:43-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="130" LINES="30"]
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-4[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-4[00m$ make
+g++ ex3.17.cpp -o ex3.17
+./ex3.17
+Write a 10 word sentence
+Bob and joe are best friends who play all th  time
+BOB AND JOE ARE BEST FRIENDS WHO PLAY 
+ALL TIME g++ ex3.23.cpp -o ex3.23
+./ex3.23
+1 2 4 8 16 32 64 128 256 512 g++ ex4.28.cpp -o ex4.28
+./ex4.28
+char size: 1 byte
+int size: 4 bytes
+float size: 4 bytes
+double size: 8 bytes
+g++ inflation.cpp -o inflation
+./inflation
+Enter the number of years your item will be purchased: 5
+Enter the cost of your item: $2
+Enter the inflation rate: 2
+The cost of the item after 5 years will be $ 2.20816.g++ nutrition.cpp -o nutrition
+./nutrition
+How much was the lethal amount?: 5
+How much did the mouse weigh?: 35
+What is your weight (in pounds)?: 100
+You can drink 1190.48 cans of soda without dying.
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-4[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-4[00m$ exit
+exit
+
+Script done on 2022-10-01 23:46:30-04:00 [COMMAND_EXIT_CODE="0"]
