@@ -1,0 +1,22 @@
+Script started on 2022-10-14 03:44:41-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-5[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-5[00m$ make
+g++ ex4.5.cpp -o ex4.5
+./ex4.5
+-86
+-18
+0
+-2
+g++ sum_of_digits.cpp -o sum_of_digits
+./sum_of_digits
+ Enter a number: 2301
+ The sum of digits of is: 6
+g++ prime.cpp -o prime
+./prime
+Prime Numbers between 3 and 100 are:
+3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 g++ linear_regression.cpp -o linear_regression
+./linear_regression
+Linear regression model is: y = 5.75052e+08 + -1.1501e+09x 
+Linear regression calculation is: y = -1.72516e+09]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-5[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-5[00m$ exit
+exit
+
+Script done on 2022-10-14 03:44:57-04:00 [COMMAND_EXIT_CODE="0"]
