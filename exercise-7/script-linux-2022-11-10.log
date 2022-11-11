@@ -1,0 +1,29 @@
+Script started on 2022-11-10 20:54:38-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-7[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-7[00m$ make
+g++ rectangle.cpp -o rectangle
+./rectangle
+First rectangle: Length: 5, Width: 2.5
+First rectangle Area: 12.5, First rectangle Perimeter:  15
+
+Second rectangle: Length: 5, Width: 18.9
+Second rectangle Area: 94.5, Second rectangle Perimeter:  47.8
+
+Rectangles do not have the same area
+
+First rectangle: Length: 15, Width: 6.3
+First rectangle Area: 94.5, First rectangle Perimeter:  42.6
+
+Second rectangle: Length: 5, Width: 18.9
+Second rectangle Area: 94.5, Second rectangle Perimeter:  47.8
+
+Rectangles have the same area
+g++ constructors.cpp -o constructors
+./constructors "File compiled"
+cat struct.MD
+>Col 50 Row 50
+>Col 50 Row 70
+>Col 25 Row 50
+]0;asm2000@DESKTOP-842SQC5: /mnt/c/Users/19293/exercise_1/exercise-7[01;32masm2000@DESKTOP-842SQC5[00m:[01;34m/mnt/c/Users/19293/exercise_1/exercise-7[00m$ exit
+exit
+
+Script done on 2022-11-10 20:54:47-05:00 [COMMAND_EXIT_CODE="0"]
