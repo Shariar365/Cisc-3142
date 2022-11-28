@@ -53,8 +53,8 @@ int main () {
       for (int j = i; j < i + 3; j++)	{
           moving_sum += temp[j];
 	}
-
-      mov_Ave.push_back (moving_sum / 3.0);
+      double num=3;
+      mov_Ave.push_back (moving_sum / num);
 
       moving_sum = 0;
     }
@@ -66,8 +66,8 @@ int main () {
           for (int j = i; j < i + 3; j++)  {
 	  weighted_sum += temp[j] * ((j + 1) - i);
 	}
-
-      weighted_ave.push_back (weighted_sum / 6.0);
+      double num = 3 + 2 + 1;
+      weighted_ave.push_back (weighted_sum / num);
       weighted_sum = 0;
     }
     
