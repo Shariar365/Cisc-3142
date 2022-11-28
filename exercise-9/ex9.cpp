@@ -62,14 +62,17 @@ int main () {
   int weighted_sum = 0;
   vector < double >weighted_ave;
 
-      for (int i = 0; i < temp.size () - 2; i++)  {
-          for (int j = i; j < i + 3; j++)  {
-	  weighted_sum += temp[j] * ((j + 1) - i);
-	}
+  for (int i = 0; i < temp.size () - 2; i++)  {
+      for (int j = i; j < i + 3; j++)  {
+      weighted_sum += temp[j] * ((j + 1) - i);
+      }
+
       double num = 3 + 2 + 1;
+
       weighted_ave.push_back (weighted_sum / num);
+
       weighted_sum = 0;
-    }
+  }
     
   for (int i = 0; i < temp.size (); i++)    {
       if (i < 2){
