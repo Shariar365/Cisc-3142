@@ -1,0 +1,11 @@
+Simple Average: 64
+Month Temperature MovingAverage WeightedMovingAverage
+Jan    39
+Feb    42
+Mar    50         43.6667        45.5
+Apr    60         50.6667        53.6667
+May    71         60.3333        63.8333
+Jun    79         70             73.1667
+Jul    85         78.3333        80.6667
+Aug    81         81.6667        82
+Sep    76         80.6667        79.1667
