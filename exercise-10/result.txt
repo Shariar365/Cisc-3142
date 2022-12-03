@@ -1,0 +1,646 @@
+Part A
+The sum of total length is: 65965
+
+Part B
+Swedenhielms : 88
+Raw Nerve : 88
+Let It Ride : 88
+Gonzo Presents Muppet Weird Stuff : 88
+Guilty by Suspicion : 88
+Five Corners : 88
+Final Notice : 88
+Happy Birthday to Me : 88
+New Year's Day : 88
+Choice of Arms : 87
+Three Strange Loves : 87
+Three Days of the Condor : 87
+Jean de Florette : 87
+City of Joy : 87
+Destroyer : 87
+Fat Man & Little Boy : 86
+Twin Peaks : 86
+For Your Eyes Only : 86
+Libeled Lady : 86
+Party Girl : 85
+Inserts : 85
+Magic : 85
+As You Desire Me : 85
+Arrowsmith : 84
+Love & Death : 84
+Gunfight at the OK Corral : 84
+Surrender : 84
+She Wore a Yellow Ribbon : 84
+Marrying Man, The : 84
+King of Comedy : 84
+Dick Tracy : 84
+Say Goodbye Maggie Cole : 84
+Crimes of the Heart : 84
+A New Leaf : 83
+Doctor at Sea : 83
+Rape of the Sabines, The : 83
+Sting, The : 83
+Getting Straight : 83
+Monty Python & the Holy Grail : 83
+Places in the Heart : 83
+Woman of Affairs : 83
+Manhattan : 82
+Flaming Frontiers : 82
+Fantasy Man : 82
+Slap Shot : 82
+Bonfire of the Vanities, The : 82
+Woman Next Door, The : 82
+Queen Christina : 82
+Butterflies Are Free : 82
+Duet for One : 82
+Alice Doesn't Live Here Anymore : 82
+At Play in the Fields of the Lord : 81
+Hanover Street : 81
+Heiress, The : 81
+After Hours : 81
+Dersu Uzala, (The Hunter) : 81
+Swing Shift : 81
+Day of the Locust, The : 81
+National Lampoon's Christmas Vacation : 81
+Play It Again, Sam : 81
+Grand Hotel : 81
+Fanny and Alexander : 81
+Contempt : 81
+Scarlet Street : 80
+Mephisto : 80
+Cannonball Run, The : 80
+Zandalee : 80
+Husbands & Wives : 80
+Bobo, The : 80
+Stripped to Kill II, Live Girls : 80
+8 1/2 : 80
+Rowlf's Rhapsodies with the Muppets : 79
+Babette's Feast : 79
+Bloodsucking Pharaohs in Pittsburgh : 79
+Siegfried, The Nibelungenlied : 79
+Predator 2 : 79
+Dead Zone, The : 79
+A Touch of Class : 79
+Rebecca : 78
+Delicatessen : 78
+Lion in Winter, THe : 78
+Never on Tuesday : 77
+True Grit : 77
+Adventures of Smilin' Jack, The : 77
+Goldfinger : 77
+Dangerous Liaisons : 77
+Salvador : 77
+Absence of Malice : 76
+Cyrano de Bergerac : 76
+Lodger (Story of the London Fog) : 76
+Stealing Home : 76
+Reds : 76
+Horse Soldiers, The : 76
+Rooster Cogburn : 76
+Salome's Last Dance : 76
+Appointment with Death : 75
+Battle of Midway, The : 75
+Best Defense : 75
+Buffet Froid : 75
+Sea of Grass, The : 75
+Roma : 75
+Meeting Venus : 74
+Fifth Floor, The : 74
+American Anthem : 74
+Act of Piracy : 74
+Camille : 74
+Under Capricorn : 74
+Why Me? : 74
+Best Friends : 74
+State of Things, The : 73
+Border Street : 73
+Black Rain : 73
+Joyless Street : 73
+Boom Town : 73
+Reversal of Fortune : 73
+Single Standard, The : 73
+Clan of the Cave Bear, The : 73
+Count of Old Town, The : 72
+Nightbreed : 72
+Novice, The : 72
+Beat Street : 72
+Flesh & the Devil, The : 72
+Hear My Song : 72
+Mysterious Lady, The : 72
+Three Godfathers : 72
+Hearts of Darkness, A Filmmaker's Apocalypse : 72
+Betty Blue : 71
+Year My Voice Broke, The : 71
+Allnighter, The : 71
+Dear Brigitte : 71
+Wings of Desire : 71
+Programmed to Kill : 71
+Prettykill : 71
+Killjoy : 71
+Creepshow : 70
+Wild Orchids : 70
+Caddyshack : 70
+Dr Alien : 70
+Bride Is Much Too Beautiful, The : 70
+Eyes of the Amaryllis, The : 70
+Stromboli : 69
+Fear : 69
+Comic Relief : 69
+Shampoo : 69
+Henry, Portrait of a Serial Killer : 69
+Honkytonk Man : 69
+Double Edge : 69
+Presumed Innocent : 69
+Once Around : 68
+Hush, Hush, Sweet Charlotte : 68
+Annie Hall : 68
+High Heels : 68
+Tie Me Up! Tie Me Down! : 68
+Tucker: The Man & His Dream : 68
+Octopussy : 68
+Daffy Duck's Quackbusters : 68
+Hunting : 68
+Bataan : 68
+Tartuffe : 67
+Man Who Loved Women, The : 67
+Hair : 67
+Mata Hari : 67
+Cactus Flower : 67
+Matchmaker, The : 67
+Diary of a Hitman : 67
+White Hunter, Black Heart : 66
+Ambassador Bill : 66
+Roxanne : 66
+Crisis : 66
+Without Love : 66
+Firehouse : 66
+Secrets of Women : 66
+Number Seventeen : 66
+Last Metro, The : 66
+Blackboard Jungle, The : 66
+Killer's Kiss : 66
+Women, The : 66
+Steel Magnolias : 66
+Inspiration : 66
+Loulou : 65
+Fast Times at Ridgemont High : 65
+Tomorrow Is Forever : 65
+Blue Iguana, The : 65
+Life & Times of Judge Roy Bean, The : 65
+Blind Man's Bluff : 64
+Through a Glass Darkly : 64
+Norma Rae : 64
+Coma : 64
+Susan Lennox, Her Fall & Rise : 64
+Brannigan : 64
+Running Mates : 63
+Dreamscape : 63
+Is Paris Burning? : 63
+Ugly American, The : 63
+Inauguration of the Pleasure Dome : 62
+Cat Ballou : 62
+Adam's Rib : 62
+Donovan's Reef : 62
+Romance : 62
+Goalie's Anxiety at the Penalty Kick, The : 62
+John Cleese on How to Irritate People : 62
+Seventh Seal, The : 62
+Virus : 62
+Looker : 62
+Last Ride of the Dalton Gang, The : 62
+Mama's Dirty Girls : 62
+Gremlins 2: The New Batch : 61
+Private Benjamin : 61
+Tender Mercies : 61
+Crazy People : 61
+Storm : 61
+Fatal Attraction : 61
+Foreign Correspondent : 61
+Hawk of Powder River : 61
+Freaks : 61
+Alfred Hitchcock Presents, Sorcerer's Apprentice : 60
+A Child Is Waiting : 60
+Clara's Heart : 60
+Ten : 60
+After the Fox : 60
+Necessary Roughness : 60
+Children's Hour, The : 60
+After School : 59
+March or Die : 59
+Sound of Music, The : 59
+Those Daring Young Men in Their Jaunty : 59
+World According to Garp, The : 59
+Reap the Wild Wind : 59
+Memoirs of an Invisible Man : 58
+Pope of Greenwich Village : 58
+From the Life of the Marionettes : 58
+Smiles of a Summer Night : 58
+Gilda : 57
+Lady in Question : 57
+Until the End of the World : 57
+Painted Veil, The : 57
+Voyage in Italy : 57
+Coogan's Bluff : 57
+High Plains Drifter : 57
+Rich & Strange : 57
+Brink of Life : 57
+Long John Silver : 56
+Don Juan : 55
+Scarlet Letter, The : 55
+Deceived : 55
+Not Without My Daughter : 55
+Pocket Money : 55
+Chinatown : 55
+A Coeur Joie, (Head Over Heels) : 54
+Looking for Mr. Goodbar : 54
+White Lightning : 54
+Flame of Barbary Coast : 54
+Island of Dr. Moreau, The : 54
+A New Life : 53
+Rainbow, The : 53
+Paris Trout : 53
+Miles from Home : 53
+High Spirits : 53
+Protocol : 53
+Barbarian & the Geisha, The : 52
+Nobody's Fool : 52
+Between Two Women : 52
+Split Decisions : 52
+Slightly Scarlet : 52
+Beyond the Limit : 51
+Northwest Passage : 51
+Lindbergh Kidnapping Case, The : 51
+Flight of the Intruder : 51
+Range Feud, The : 51
+Desk Set : 51
+Bodycount : 51
+Shirley Valentine : 51
+Breathless : 51
+Brood, The : 51
+Guess Who's Coming to Dinner : 50
+Tin Men : 50
+Torpedo Run : 50
+Final Analysis : 50
+Secret Agent : 50
+Julius Caesar : 50
+Big Bust Out, The : 50
+Hombre : 50
+Vampire's Kiss : 49
+A Man & a Woman: Twenty Years Later : 49
+Seven Minutes in Heaven : 49
+A Woman's Face : 49
+Autumn Sonata : 49
+Triumph of the Spirit : 49
+Seems Like Old Times : 49
+Vagabond : 49
+Affair in Trinidad : 49
+Siesta : 48
+Rookie, THe : 48
+Big Bands, The : 48
+Network : 48
+Loves of Carmen, The : 48
+Pat & Mike : 48
+A Lesson in Love : 48
+Misery : 48
+Nadine : 47
+Straight to Hell : 47
+Meridian : 47
+A Man & a Woman : 46
+Foul Play : 46
+Competition, The : 45
+Under the Sun of Satan : 45
+Conan the Barbarian : 45
+Back to the Beach : 45
+Easy Virtue : 45
+Instant Justice : 45
+Marbella : 45
+Burglar : 44
+Star Wars : 44
+Wings : 44
+Cool World : 44
+A View to a Kill : 44
+Jane Eyre : 44
+Darling : 44
+Hot Pursuit : 44
+Power : 43
+Courtship of Eddie's Father, The : 43
+China Syndrome, The : 43
+Night Train to Katmandu, THe : 43
+Hustler, The : 43
+Harvey : 42
+Burbs, The : 42
+A Guy Named Joe : 42
+Wild Strawberries : 42
+Adventures of Sherlock Holmes' Smarter : 42
+World's Greatest Lover, The : 42
+Souvenir : 42
+Notorious : 42
+Beverly Hills Cop : 41
+Kandyland : 41
+There's a Girl in My Soup : 41
+Desperately Seeking Susan : 41
+Man with the Golden Gun, The : 41
+Castaway : 41
+Ninotchka : 40
+Quick & The Dead, The : 40
+Paramount Comedy Theater: Well-Developed : 40
+Slumber Party Massacre III : 40
+Mother Lode : 40
+Miami Cops : 40
+I Love All of You (Je Vous Aime) : 40
+Official Story, The : 39
+Judgment at Nuremberg : 39
+Rope : 39
+Ms. Don Juan : 39
+Monster in the Closet : 39
+Island of Dr. Moreau, The : 39
+Charly : 38
+Naked Night, The : 38
+Campus Man : 38
+That Naughty Girl : 37
+Road to Hong Kong : 37
+Bloodbath : 37
+Easy Rider : 36
+Samson & Delilah : 36
+Germicide : 36
+Videodrome : 36
+People, The : 36
+Wheel of Fortune : 36
+Anna Karenina : 35
+Snow Kill : 35
+Burnt Offerings : 35
+Torn Curtain : 35
+Europa Fifty-One : 34
+Dragon Seed : 34
+Rabid : 34
+Voyage of the Damned : 34
+Naked Truth, The : 34
+Yellowbeard : 34
+Ravishing Idiot, The : 34
+Electric Horseman, The : 34
+Elena & Her Men : 33
+Empire Strikes Back, The : 33
+One Frightened Night : 33
+Napoleon & Samantha : 33
+Hunchback : 33
+Tempest : 33
+Fly, The : 33
+Court-Martial of Jackie Robinson, The : 33
+Jubal : 32
+Intermezzo : 32
+Unforgiven, The : 32
+Last Temptation of Christ, The : 32
+Party, The : 32
+My Left Foot : 32
+Moonraker : 32
+Walpurgis Night : 32
+Shining, The : 32
+Camille Claudel : 32
+Running Man, The : 31
+Stacey! : 31
+Juice : 31
+Bells of St. Mary's, The : 31
+Secret Beyond the Door : 31
+Think Dirty : 31
+Night Gallery : 31
+A Very Private Affair : 30
+Wagon Master : 30
+Valley Girl : 30
+Dead Ringers : 29
+Port of Call : 29
+Exorcist II, The Heretic : 29
+And God Created Woman : 29
+Circus World : 29
+Patriot Games : 28
+Risky Business : 28
+Elvira Madigan : 28
+American Angels: Baptism of Blood, The : 28
+Sugarland Express, The : 28
+Exorcist, The : 28
+QB VII : 28
+Doughnuts & Society : 28
+Father Murphy, A Horse from Heaven : 28
+Gardens of Stone : 27
+Spy Who Loved Me, The : 27
+Outer Limits, The : 27
+Stark : 27
+Pet Sematary : 27
+Naked Obsession : 26
+Only One Night : 26
+Boy Who Could Fly, The : 25
+Mademoiselle Striptease : 25
+Working Girl : 25
+Gaslight : 25
+Philadelphia Story, The : 25
+Fair Game : 24
+Nineteen Forty-One : 24
+Quick Change : 24
+Seven Sinners : 24
+Final Terror, The : 24
+Anastasia : 24
+All about Eve : 23
+Raising Arizona : 23
+On Golden Pond : 23
+Colors : 23
+Intimate Stranger : 23
+Girl from Petrovka, The : 23
+Mannequin : 23
+Barfly : 23
+Alice : 22
+Bloopers from Star Trek : 22
+Big Trail, The : 22
+Little Women : 22
+Wildcats : 22
+Rainmaker, The : 21
+Like Father Like Son : 20
+Masculine Feminine : 20
+A Stolen Life : 20
+King Kong Lives! : 20
+Wait Until Spring, Bandini : 20
+A Man for All Seasons : 20
+Puppet Master : 20
+Best of the Big Laff Off, The : 20
+Devil's Eye, The : 20
+La Dolce Vita : 20
+Vincent, Francois, Paul & the Others : 20
+Purple Rose of Cairo, The : 20
+Stand & Deliver : 19
+Quintet : 19
+Adventures in Dinosaur City : 19
+Manhunter : 19
+Skull : 19
+Big Fix, The : 19
+Flashback : 19
+Dollar : 19
+Women in Love. : 18
+Cries & Whispers : 18
+Catch a Rising Star, Tenth Anniversary : 18
+Old Maid, The : 18
+School Daze : 18
+Terminator, The : 17
+Heroes : 17
+Frantic : 17
+Tragedy of a Ridiculous Man : 17
+Business As Usual : 17
+Running Out of Luck : 16
+Lady from Shanghai : 16
+Hideaways : 16
+Hurricane Smith : 16
+Twenty Four Hours in a Woman's Life : 16
+Lair of the White Worm, The : 16
+Voulez-Vous Danser Avec Moi? : 16
+Good Fellas : 15
+Man Who Knew Too Much, The : 15
+Appaloosa, The : 15
+Klute : 15
+Love Songs : 15
+Blood Alley : 15
+Le Choix des Armes : 15
+Scrooged : 15
+Vampire Raiders, Ninja Queen : 15
+A Woman Called Golda : 15
+Deceivers, The : 14
+Broadway Danny Rose : 14
+Housesitter : 14
+Target Eagle : 14
+Beauty & the Beast : 14
+Dreams : 14
+Days of Heaven : 14
+June Night : 14
+Batman : 14
+Fourth Protocol, The : 14
+Reckless : 14
+Bill Cosby, Live at Harrah's : 13
+Golden Ninja Invasion : 13
+America's Music, Gospel : 13
+Lady for a Night : 12
+Penn & Teller Get Killed : 12
+Best of Candid Camera, The : 12
+Woman of the Year : 12
+Minsky's Follies : 12
+My Darling Clementine : 12
+Bloodbrothers : 11
+No Mercy : 11
+Sundays & Cybele : 11
+Casino Royale : 11
+Tom Sawyer : 11
+Elephant Walk : 11
+Shining Through : 11
+Killers of Kilimanjaro : 11
+If Looks Could Kill : 10
+Rain Killer, The : 10
+Life with Father : 10
+My Fair Lady : 10
+Day for Night : 10
+Fire & Rain : 10
+Kiss of the Spider Woman : 10
+Carnal Knowledge : 10
+Blame It on Rio : 10
+Lionheart : 9
+Eighty-Four Charing Cross Road : 9
+Tango & Cash : 9
+Judge Priest : 9
+Masque of the Red Death : 9
+Morituri : 9
+Raiders of the Lost Ark : 8
+Born on the Fourth of July : 8
+Murder on the Orient Express : 8
+Addams Family, The : 8
+Hannah & Her Sisters : 8
+Hurricane : 8
+Thunderball : 8
+E. T. The Extra-Terrestrial : 8
+Terminator 2 : 8
+Silence of the Lambs, The : 8
+Rain Man : 8
+Highlander : 8
+Never Say Never Again : 8
+Le Repos Du Guerrier, (Warrior's Rest) : 8
+Hawaii : 8
+Godfather, The : 8
+Godfather, Pt 2., The : 8
+Witches of Eastwick, The : 8
+Awakenings : 8
+Killer Image. : 8
+Tootsie : 8
+Gandhi : 7
+Great Train Robbery, The : 7
+Big Blue, The : 7
+Dr. No : 7
+Joan of Arc : 7
+A Fish Called Wanda : 7
+Bedtime Story : 7
+Blind Date : 7
+Nine & a Half Weeks : 7
+Shy People : 7
+Subway : 6
+Crossing Delancey : 6
+Cuba : 6
+Swing It Sailor! : 6
+Goodbye Again : 6
+Medicine Man : 6
+I Will, I Will...For Now : 6
+Amadeus : 6
+Un Hombre y una Mujer : 6
+Overboard : 6
+Morning After, The : 6
+Moonstruck : 6
+Sammy & Rosie Get Laid : 6
+End of Innocence, The : 6
+Wall Street : 6
+Wild at Heart : 6
+Robin & Marian : 6
+Jaws : 6
+Tommy : 5
+Unbearable Lightness of Being, The : 5
+Casino : 5
+Nights in White Satin : 5
+Do the Right Thing : 5
+Family Business : 5
+Enemies, a Love Story : 5
+Time Bandits : 5
+Rita, Sue & Bob Too : 5
+Terrorists, The : 4
+Tonight for Sure : 4
+Return of the Jedi : 4
+What Price Glory? : 4
+Star Chamber, The : 3
+Elephant Man, The : 3
+Alan & Naomi : 3
+Paper Moon : 3
+O. C. & Stiggs : 3
+Molly Maguires, The : 3
+Johnny Dangerously : 3
+Strictly Business : 3
+Five Easy Pieces : 2
+Wind & the Lion, The : 2
+Tokyo Pop : 2
+Hoosiers : 2
+A Walk in the Spring Rain : 2
+Mary White : 2
+Marnie : 2
+Blackmail : 2
+Gor : 2
+Indiscreet : 1
+Stavisky : 1
+Coming Home : 1
+Holocaust : 1
+Anderson Tapes, The : 1
+A Show of Force : 1
+Blade Runner : 1
+Anna Christie : 0
+White Lightning : 0
+Shalako : 0
+Nightmare at Noon : 0
+Knights & Emeralds : 0
+It's My Turn : 0
+Hot Child in the City : 0
+Airport : 0
+
+Part C
+Finding Occurance of 'Kulik': 
+Kulik, Buzz
+
+Part D
+Unique years for Action movies: 1979, 1983, 1984, 1981, 1991, 1958, 1962, 1992, 1959, 1926, 1988, 1977, 1988, 1989, 1967, 1987, 1989, 1982, 1983, 1988, 1988, 1975, 1987, 1982, 1973, 1964, 1981, 1992, 1990, 1988, 1989, 1972, 1989, 1943, 1979, 1968, 1975, 1992, 1987, 1989, 1981, 1989, 1989, 1970, 1974, 1985, 1979, 1988, 1956, 1973, 1975, 1954, 1991, 1984, 1986, 1982, 1987, 1989, 1976, 1992, 1991, 1940, 1987, 1990, 1988, 1988, 1983, 
+Unique years for Comedy movies: 1990, 1991, 1963, 1988, 1967, 1979, 1983, 1985, 1984, 1988, 1986, 1985, 1985, 1971, 1957, 1958, 1959, 1965, 1964, 1958, 1955, 1988, 1987, 1991, 1989, 1972, 1982, 1985, 1970, 1935, 1969, 1989, 1970, 1983, 1952, 1993, 1974, 1993, 1958, 1987, 1975, 1989, 1983, 1984, 1986, 1990, 1982, 1987, 1990, 1970, 1992, 1987, 1987, 1986, 1975, 1931, 1989, 1980, 1991, 1987, 1962, 1989, 1986, 1961, 1977, 1987, 1988, 1954, 1989, 1990, 1990, 1983, 1990, 1989, 1990, 1991, 1985, 1986, 1976, 1947, 1981, 1993, 1984, 1966, 1967, 1985, 1984, 1992, 1986, 1981, 1936, 1987, 1989, 1990, 1979, 1965, 1983, 1972, 1987, 1939, 1982, 1989, 1979, 1979, 1987, 1986, 1991, 1988, 1988, 1969, 1990, 1992, 1989, 1987, 1936, 1970, 1978, 1982, 1987, 1992, 1986, 1984, 1980, 1980, 1990, 1984, 1952, 1957, 1991, 1991, 1991, 1991, 1987, 1987, 1980, 1987, 1950, 1987, 1989, 1992, 1991, 1988, 1987, 1973, 1988, 1955, 1989, 1937, 1991, 1983, 1963, 1991, 1973, 1983, 1975, 1990, 1977, 1977, 1979, 1986, 1976, 1972, 1975, 
+Unique years of Action and Comedy are not equal. 
